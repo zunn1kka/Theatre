@@ -1,0 +1,12 @@
+C:\Users\ISP\Documents\Демидов Денис ИСП33\src\Theatre.Core\bin\Debug\Theatre.Core.dll
+C:\Users\ISP\Documents\Демидов Денис ИСП33\src\Theatre.Core\bin\Debug\Theatre.Core.pdb
+C:\Users\ISP\Documents\Демидов Денис ИСП33\src\Theatre.Core\obj\Debug\Theatre.Core.csproj.AssemblyReference.cache
+C:\Users\ISP\Documents\Демидов Денис ИСП33\src\Theatre.Core\obj\Debug\Theatre.Core.csproj.CoreCompileInputs.cache
+C:\Users\ISP\Documents\Демидов Денис ИСП33\src\Theatre.Core\obj\Debug\Theatre.Core.dll
+C:\Users\ISP\Documents\Демидов Денис ИСП33\src\Theatre.Core\obj\Debug\Theatre.Core.pdb
+C:\Users\Admin\Desktop\флешка\Курсовой проект 3 курс\src\Theatre.Core\bin\Debug\Theatre.Core.dll
+C:\Users\Admin\Desktop\флешка\Курсовой проект 3 курс\src\Theatre.Core\bin\Debug\Theatre.Core.pdb
+C:\Users\Admin\Desktop\флешка\Курсовой проект 3 курс\src\Theatre.Core\obj\Debug\Theatre.Core.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\флешка\Курсовой проект 3 курс\src\Theatre.Core\obj\Debug\Theatre.Core.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\флешка\Курсовой проект 3 курс\src\Theatre.Core\obj\Debug\Theatre.Core.dll
+C:\Users\Admin\Desktop\флешка\Курсовой проект 3 курс\src\Theatre.Core\obj\Debug\Theatre.Core.pdb

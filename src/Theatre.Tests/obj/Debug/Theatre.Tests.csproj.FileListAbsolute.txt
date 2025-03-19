@@ -1,0 +1,64 @@
+C:\Users\ISP\Documents\Демидов Денис ИСП33\src\Theatre.Tests\bin\Debug\ru\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+C:\Users\ISP\Documents\Демидов Денис ИСП33\src\Theatre.Tests\bin\Debug\ru\Microsoft.TestPlatform.AdapterUtilities.resources.dll
+C:\Users\ISP\Documents\Демидов Денис ИСП33\src\Theatre.Tests\bin\Debug\ru\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\ISP\Documents\Демидов Денис ИСП33\src\Theatre.Tests\bin\Debug\ru\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.resources.dll
+C:\Users\ISP\Documents\Демидов Денис ИСП33\src\Theatre.Tests\bin\Debug\ru\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.resources.dll
+C:\Users\ISP\Documents\Демидов Денис ИСП33\src\Theatre.Tests\bin\Debug\ru\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\ISP\Documents\Демидов Денис ИСП33\src\Theatre.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\ISP\Documents\Демидов Денис ИСП33\src\Theatre.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\ISP\Documents\Демидов Денис ИСП33\src\Theatre.Tests\bin\Debug\Microsoft.TestPlatform.AdapterUtilities.dll
+C:\Users\ISP\Documents\Демидов Денис ИСП33\src\Theatre.Tests\bin\Debug\Theatre.Tests.dll
+C:\Users\ISP\Documents\Демидов Денис ИСП33\src\Theatre.Tests\bin\Debug\Theatre.Tests.pdb
+C:\Users\ISP\Documents\Демидов Денис ИСП33\src\Theatre.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\ISP\Documents\Демидов Денис ИСП33\src\Theatre.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\ISP\Documents\Демидов Денис ИСП33\src\Theatre.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\ISP\Documents\Демидов Денис ИСП33\src\Theatre.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\ISP\Documents\Демидов Денис ИСП33\src\Theatre.Tests\bin\Debug\cs\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+C:\Users\ISP\Documents\Демидов Денис ИСП33\src\Theatre.Tests\bin\Debug\de\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+C:\Users\ISP\Documents\Демидов Денис ИСП33\src\Theatre.Tests\bin\Debug\es\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+C:\Users\ISP\Documents\Демидов Денис ИСП33\src\Theatre.Tests\bin\Debug\fr\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+C:\Users\ISP\Documents\Демидов Денис ИСП33\src\Theatre.Tests\bin\Debug\it\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+C:\Users\ISP\Documents\Демидов Денис ИСП33\src\Theatre.Tests\bin\Debug\ja\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+C:\Users\ISP\Documents\Демидов Денис ИСП33\src\Theatre.Tests\bin\Debug\ko\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+C:\Users\ISP\Documents\Демидов Денис ИСП33\src\Theatre.Tests\bin\Debug\pl\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+C:\Users\ISP\Documents\Демидов Денис ИСП33\src\Theatre.Tests\bin\Debug\pt-BR\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+C:\Users\ISP\Documents\Демидов Денис ИСП33\src\Theatre.Tests\bin\Debug\tr\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+C:\Users\ISP\Documents\Демидов Денис ИСП33\src\Theatre.Tests\bin\Debug\zh-Hans\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+C:\Users\ISP\Documents\Демидов Денис ИСП33\src\Theatre.Tests\bin\Debug\zh-Hant\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+C:\Users\ISP\Documents\Демидов Денис ИСП33\src\Theatre.Tests\obj\Debug\Theatre.Tests.csproj.AssemblyReference.cache
+C:\Users\ISP\Documents\Демидов Денис ИСП33\src\Theatre.Tests\obj\Debug\Theatre.Tests.csproj.CoreCompileInputs.cache
+C:\Users\ISP\Documents\Демидов Денис ИСП33\src\Theatre.Tests\obj\Debug\Theatre.Tests.csproj.CopyComplete
+C:\Users\ISP\Documents\Демидов Денис ИСП33\src\Theatre.Tests\obj\Debug\Theatre.Tests.dll
+C:\Users\ISP\Documents\Демидов Денис ИСП33\src\Theatre.Tests\obj\Debug\Theatre.Tests.pdb
+C:\Users\Admin\Desktop\флешка\Курсовой проект 3 курс\src\Theatre.Tests\bin\Debug\ru\Microsoft.TestPlatform.AdapterUtilities.resources.dll
+C:\Users\Admin\Desktop\флешка\Курсовой проект 3 курс\src\Theatre.Tests\bin\Debug\ru\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\Admin\Desktop\флешка\Курсовой проект 3 курс\src\Theatre.Tests\bin\Debug\ru\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.resources.dll
+C:\Users\Admin\Desktop\флешка\Курсовой проект 3 курс\src\Theatre.Tests\bin\Debug\ru\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.resources.dll
+C:\Users\Admin\Desktop\флешка\Курсовой проект 3 курс\src\Theatre.Tests\bin\Debug\ru\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\Admin\Desktop\флешка\Курсовой проект 3 курс\src\Theatre.Tests\bin\Debug\ru\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+C:\Users\Admin\Desktop\флешка\Курсовой проект 3 курс\src\Theatre.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\Admin\Desktop\флешка\Курсовой проект 3 курс\src\Theatre.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\Admin\Desktop\флешка\Курсовой проект 3 курс\src\Theatre.Tests\bin\Debug\Microsoft.TestPlatform.AdapterUtilities.dll
+C:\Users\Admin\Desktop\флешка\Курсовой проект 3 курс\src\Theatre.Tests\bin\Debug\Theatre.Tests.dll
+C:\Users\Admin\Desktop\флешка\Курсовой проект 3 курс\src\Theatre.Tests\bin\Debug\Theatre.Tests.pdb
+C:\Users\Admin\Desktop\флешка\Курсовой проект 3 курс\src\Theatre.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\Admin\Desktop\флешка\Курсовой проект 3 курс\src\Theatre.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\Admin\Desktop\флешка\Курсовой проект 3 курс\src\Theatre.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\Admin\Desktop\флешка\Курсовой проект 3 курс\src\Theatre.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\Admin\Desktop\флешка\Курсовой проект 3 курс\src\Theatre.Tests\bin\Debug\cs\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+C:\Users\Admin\Desktop\флешка\Курсовой проект 3 курс\src\Theatre.Tests\bin\Debug\de\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+C:\Users\Admin\Desktop\флешка\Курсовой проект 3 курс\src\Theatre.Tests\bin\Debug\es\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+C:\Users\Admin\Desktop\флешка\Курсовой проект 3 курс\src\Theatre.Tests\bin\Debug\fr\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+C:\Users\Admin\Desktop\флешка\Курсовой проект 3 курс\src\Theatre.Tests\bin\Debug\it\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+C:\Users\Admin\Desktop\флешка\Курсовой проект 3 курс\src\Theatre.Tests\bin\Debug\ja\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+C:\Users\Admin\Desktop\флешка\Курсовой проект 3 курс\src\Theatre.Tests\bin\Debug\ko\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+C:\Users\Admin\Desktop\флешка\Курсовой проект 3 курс\src\Theatre.Tests\bin\Debug\pl\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+C:\Users\Admin\Desktop\флешка\Курсовой проект 3 курс\src\Theatre.Tests\bin\Debug\pt-BR\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+C:\Users\Admin\Desktop\флешка\Курсовой проект 3 курс\src\Theatre.Tests\bin\Debug\tr\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+C:\Users\Admin\Desktop\флешка\Курсовой проект 3 курс\src\Theatre.Tests\bin\Debug\zh-Hans\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+C:\Users\Admin\Desktop\флешка\Курсовой проект 3 курс\src\Theatre.Tests\bin\Debug\zh-Hant\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+C:\Users\Admin\Desktop\флешка\Курсовой проект 3 курс\src\Theatre.Tests\obj\Debug\Theatre.Tests.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\флешка\Курсовой проект 3 курс\src\Theatre.Tests\obj\Debug\Theatre.Tests.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\флешка\Курсовой проект 3 курс\src\Theatre.Tests\obj\Debug\Theatre..BB22EAFE.Up2Date
+C:\Users\Admin\Desktop\флешка\Курсовой проект 3 курс\src\Theatre.Tests\obj\Debug\Theatre.Tests.dll
+C:\Users\Admin\Desktop\флешка\Курсовой проект 3 курс\src\Theatre.Tests\obj\Debug\Theatre.Tests.pdb

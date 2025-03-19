@@ -1,0 +1,154 @@
+C:\Users\ISP\Documents\Демидов Денис ИСП33\src\Theatre\obj\Debug\Theatre.csproj.AssemblyReference.cache
+C:\Users\ISP\Documents\Демидов Денис ИСП33\src\Theatre\obj\Debug\Captcha.g.cs
+C:\Users\ISP\Documents\Демидов Денис ИСП33\src\Theatre\obj\Debug\MainWindow.g.cs
+C:\Users\ISP\Documents\Демидов Денис ИСП33\src\Theatre\obj\Debug\App.g.cs
+C:\Users\ISP\Documents\Демидов Денис ИСП33\src\Theatre\obj\Debug\Theatre_MarkupCompile.cache
+C:\Users\ISP\Documents\Демидов Денис ИСП33\src\Theatre\obj\Debug\Theatre_MarkupCompile.lref
+C:\Users\ISP\Documents\Демидов Денис ИСП33\src\Theatre\bin\Debug\Theatre.exe.config
+C:\Users\ISP\Documents\Демидов Денис ИСП33\src\Theatre\bin\Debug\Theatre.exe
+C:\Users\ISP\Documents\Демидов Денис ИСП33\src\Theatre\bin\Debug\Theatre.pdb
+C:\Users\ISP\Documents\Демидов Денис ИСП33\src\Theatre\bin\Debug\Theatre.Business.dll
+C:\Users\ISP\Documents\Демидов Денис ИСП33\src\Theatre\bin\Debug\Theatre.Core.dll
+C:\Users\ISP\Documents\Демидов Денис ИСП33\src\Theatre\bin\Debug\Theatre.Data.dll
+C:\Users\ISP\Documents\Демидов Денис ИСП33\src\Theatre\bin\Debug\Theatre.Business.pdb
+C:\Users\ISP\Documents\Демидов Денис ИСП33\src\Theatre\bin\Debug\Theatre.Core.pdb
+C:\Users\ISP\Documents\Демидов Денис ИСП33\src\Theatre\bin\Debug\Theatre.Data.pdb
+C:\Users\ISP\Documents\Демидов Денис ИСП33\src\Theatre\obj\Debug\App.baml
+C:\Users\ISP\Documents\Демидов Денис ИСП33\src\Theatre\obj\Debug\Captcha.baml
+C:\Users\ISP\Documents\Демидов Денис ИСП33\src\Theatre\obj\Debug\MainWindow.baml
+C:\Users\ISP\Documents\Демидов Денис ИСП33\src\Theatre\obj\Debug\Theatre.g.resources
+C:\Users\ISP\Documents\Демидов Денис ИСП33\src\Theatre\obj\Debug\Theatre.Properties.Resources.resources
+C:\Users\ISP\Documents\Демидов Денис ИСП33\src\Theatre\obj\Debug\Theatre.csproj.GenerateResource.cache
+C:\Users\ISP\Documents\Демидов Денис ИСП33\src\Theatre\obj\Debug\Theatre.csproj.CoreCompileInputs.cache
+C:\Users\ISP\Documents\Демидов Денис ИСП33\src\Theatre\obj\Debug\Theatre.csproj.CopyComplete
+C:\Users\ISP\Documents\Демидов Денис ИСП33\src\Theatre\obj\Debug\Theatre.exe
+C:\Users\ISP\Documents\Демидов Денис ИСП33\src\Theatre\obj\Debug\Theatre.pdb
+C:\Users\ISP\Documents\Демидов Денис ИСП33\src\Theatre\bin\Debug\Microsoft.EntityFrameworkCore.dll
+C:\Users\ISP\Documents\Демидов Денис ИСП33\src\Theatre\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\ISP\Documents\Демидов Денис ИСП33\src\Theatre\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\ISP\Documents\Демидов Денис ИСП33\src\Theatre\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\ISP\Documents\Демидов Денис ИСП33\src\Theatre\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\ISP\Documents\Демидов Денис ИСП33\src\Theatre\bin\Debug\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\ISP\Documents\Демидов Денис ИСП33\src\Theatre\bin\Debug\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\ISP\Documents\Демидов Денис ИСП33\src\Theatre\bin\Debug\Microsoft.Bcl.HashCode.dll
+C:\Users\ISP\Documents\Демидов Денис ИСП33\src\Theatre\bin\Debug\System.ComponentModel.Annotations.dll
+C:\Users\ISP\Documents\Демидов Денис ИСП33\src\Theatre\bin\Debug\System.Collections.Immutable.dll
+C:\Users\ISP\Documents\Демидов Денис ИСП33\src\Theatre\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\ISP\Documents\Демидов Денис ИСП33\src\Theatre\bin\Debug\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\ISP\Documents\Демидов Денис ИСП33\src\Theatre\bin\Debug\Microsoft.Extensions.Logging.dll
+C:\Users\ISP\Documents\Демидов Денис ИСП33\src\Theatre\bin\Debug\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\ISP\Documents\Демидов Денис ИСП33\src\Theatre\bin\Debug\Microsoft.Extensions.Options.dll
+C:\Users\ISP\Documents\Демидов Денис ИСП33\src\Theatre\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\ISP\Documents\Демидов Денис ИСП33\src\Theatre\bin\Debug\Microsoft.Extensions.Primitives.dll
+C:\Users\ISP\Documents\Демидов Денис ИСП33\src\Theatre\bin\Debug\System.Memory.dll
+C:\Users\ISP\Documents\Демидов Денис ИСП33\src\Theatre\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\ISP\Documents\Демидов Денис ИСП33\src\Theatre\bin\Debug\System.Buffers.dll
+C:\Users\ISP\Documents\Демидов Денис ИСП33\src\Theatre\bin\Debug\Theatre.Data.dll.config
+C:\Users\ISP\Documents\Демидов Денис ИСП33\src\Theatre\bin\Debug\Microsoft.EntityFrameworkCore.xml
+C:\Users\ISP\Documents\Демидов Денис ИСП33\src\Theatre\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\ISP\Documents\Демидов Денис ИСП33\src\Theatre\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\ISP\Documents\Демидов Денис ИСП33\src\Theatre\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\ISP\Documents\Демидов Денис ИСП33\src\Theatre\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\ISP\Documents\Демидов Денис ИСП33\src\Theatre\bin\Debug\Microsoft.Extensions.Caching.Abstractions.xml
+C:\Users\ISP\Documents\Демидов Денис ИСП33\src\Theatre\bin\Debug\Microsoft.EntityFrameworkCore.Abstractions.xml
+C:\Users\ISP\Documents\Демидов Денис ИСП33\src\Theatre\bin\Debug\Microsoft.Bcl.HashCode.xml
+C:\Users\ISP\Documents\Демидов Денис ИСП33\src\Theatre\bin\Debug\System.Collections.Immutable.xml
+C:\Users\ISP\Documents\Демидов Денис ИСП33\src\Theatre\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\ISP\Documents\Демидов Денис ИСП33\src\Theatre\bin\Debug\Microsoft.Extensions.DependencyInjection.xml
+C:\Users\ISP\Documents\Демидов Денис ИСП33\src\Theatre\bin\Debug\Microsoft.Extensions.Logging.xml
+C:\Users\ISP\Documents\Демидов Денис ИСП33\src\Theatre\bin\Debug\Microsoft.Extensions.Caching.Memory.xml
+C:\Users\ISP\Documents\Демидов Денис ИСП33\src\Theatre\bin\Debug\Microsoft.Extensions.Options.xml
+C:\Users\ISP\Documents\Демидов Денис ИСП33\src\Theatre\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\ISP\Documents\Демидов Денис ИСП33\src\Theatre\bin\Debug\Microsoft.Extensions.Primitives.xml
+C:\Users\ISP\Documents\Демидов Денис ИСП33\src\Theatre\bin\Debug\System.Memory.xml
+C:\Users\ISP\Documents\Демидов Денис ИСП33\src\Theatre\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\ISP\Documents\Демидов Денис ИСП33\src\Theatre\bin\Debug\System.Buffers.xml
+C:\Users\Admin\Desktop\флешка\Курсовой проект 3 курс\src\Theatre\obj\Debug\Theatre.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\флешка\Курсовой проект 3 курс\src\Theatre\obj\Debug\Captcha.g.cs
+C:\Users\Admin\Desktop\флешка\Курсовой проект 3 курс\src\Theatre\obj\Debug\MainWindow.g.cs
+C:\Users\Admin\Desktop\флешка\Курсовой проект 3 курс\src\Theatre\obj\Debug\App.g.cs
+C:\Users\Admin\Desktop\флешка\Курсовой проект 3 курс\src\Theatre\obj\Debug\Theatre_MarkupCompile.cache
+C:\Users\Admin\Desktop\флешка\Курсовой проект 3 курс\src\Theatre\obj\Debug\Theatre_MarkupCompile.lref
+C:\Users\Admin\Desktop\флешка\Курсовой проект 3 курс\src\Theatre\obj\Debug\Theatre.exe
+C:\Users\Admin\Desktop\флешка\Курсовой проект 3 курс\src\Theatre\obj\Debug\Theatre.pdb
+C:\Users\Admin\Desktop\флешка\Курсовой проект 3 курс\src\Theatre\obj\Debug\MainTheatre.g.cs
+C:\Users\Admin\Desktop\флешка\Курсовой проект 3 курс\src\Theatre\bin\Debug\Theatre.exe.config
+C:\Users\Admin\Desktop\флешка\Курсовой проект 3 курс\src\Theatre\bin\Debug\Theatre.exe
+C:\Users\Admin\Desktop\флешка\Курсовой проект 3 курс\src\Theatre\bin\Debug\Theatre.pdb
+C:\Users\Admin\Desktop\флешка\Курсовой проект 3 курс\src\Theatre\bin\Debug\Theatre.Business.dll
+C:\Users\Admin\Desktop\флешка\Курсовой проект 3 курс\src\Theatre\bin\Debug\Theatre.Core.dll
+C:\Users\Admin\Desktop\флешка\Курсовой проект 3 курс\src\Theatre\bin\Debug\Theatre.Data.dll
+C:\Users\Admin\Desktop\флешка\Курсовой проект 3 курс\src\Theatre\bin\Debug\Npgsql.dll
+C:\Users\Admin\Desktop\флешка\Курсовой проект 3 курс\src\Theatre\bin\Debug\MimeKit.dll
+C:\Users\Admin\Desktop\флешка\Курсовой проект 3 курс\src\Theatre\bin\Debug\MailKit.dll
+C:\Users\Admin\Desktop\флешка\Курсовой проект 3 курс\src\Theatre\bin\Debug\Microsoft.EntityFrameworkCore.dll
+C:\Users\Admin\Desktop\флешка\Курсовой проект 3 курс\src\Theatre\bin\Debug\System.Memory.dll
+C:\Users\Admin\Desktop\флешка\Курсовой проект 3 курс\src\Theatre\bin\Debug\Microsoft.Bcl.HashCode.dll
+C:\Users\Admin\Desktop\флешка\Курсовой проект 3 курс\src\Theatre\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Admin\Desktop\флешка\Курсовой проект 3 курс\src\Theatre\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Admin\Desktop\флешка\Курсовой проект 3 курс\src\Theatre\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Admin\Desktop\флешка\Курсовой проект 3 курс\src\Theatre\bin\Debug\System.Threading.Channels.dll
+C:\Users\Admin\Desktop\флешка\Курсовой проект 3 курс\src\Theatre\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Admin\Desktop\флешка\Курсовой проект 3 курс\src\Theatre\bin\Debug\System.Text.Json.dll
+C:\Users\Admin\Desktop\флешка\Курсовой проект 3 курс\src\Theatre\bin\Debug\System.Buffers.dll
+C:\Users\Admin\Desktop\флешка\Курсовой проект 3 курс\src\Theatre\bin\Debug\System.Collections.Immutable.dll
+C:\Users\Admin\Desktop\флешка\Курсовой проект 3 курс\src\Theatre\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Admin\Desktop\флешка\Курсовой проект 3 курс\src\Theatre\bin\Debug\BouncyCastle.Cryptography.dll
+C:\Users\Admin\Desktop\флешка\Курсовой проект 3 курс\src\Theatre\bin\Debug\System.Formats.Asn1.dll
+C:\Users\Admin\Desktop\флешка\Курсовой проект 3 курс\src\Theatre\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Admin\Desktop\флешка\Курсовой проект 3 курс\src\Theatre\bin\Debug\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Admin\Desktop\флешка\Курсовой проект 3 курс\src\Theatre\bin\Debug\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Admin\Desktop\флешка\Курсовой проект 3 курс\src\Theatre\bin\Debug\System.ComponentModel.Annotations.dll
+C:\Users\Admin\Desktop\флешка\Курсовой проект 3 курс\src\Theatre\bin\Debug\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Admin\Desktop\флешка\Курсовой проект 3 курс\src\Theatre\bin\Debug\Microsoft.Extensions.Logging.dll
+C:\Users\Admin\Desktop\флешка\Курсовой проект 3 курс\src\Theatre\bin\Debug\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Admin\Desktop\флешка\Курсовой проект 3 курс\src\Theatre\bin\Debug\Microsoft.Extensions.Options.dll
+C:\Users\Admin\Desktop\флешка\Курсовой проект 3 курс\src\Theatre\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Admin\Desktop\флешка\Курсовой проект 3 курс\src\Theatre\bin\Debug\System.ValueTuple.dll
+C:\Users\Admin\Desktop\флешка\Курсовой проект 3 курс\src\Theatre\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\Admin\Desktop\флешка\Курсовой проект 3 курс\src\Theatre\bin\Debug\Microsoft.Extensions.Primitives.dll
+C:\Users\Admin\Desktop\флешка\Курсовой проект 3 курс\src\Theatre\bin\Debug\Theatre.Business.pdb
+C:\Users\Admin\Desktop\флешка\Курсовой проект 3 курс\src\Theatre\bin\Debug\Theatre.Business.dll.config
+C:\Users\Admin\Desktop\флешка\Курсовой проект 3 курс\src\Theatre\bin\Debug\Theatre.Core.pdb
+C:\Users\Admin\Desktop\флешка\Курсовой проект 3 курс\src\Theatre\bin\Debug\Theatre.Data.pdb
+C:\Users\Admin\Desktop\флешка\Курсовой проект 3 курс\src\Theatre\bin\Debug\Theatre.Data.dll.config
+C:\Users\Admin\Desktop\флешка\Курсовой проект 3 курс\src\Theatre\bin\Debug\Npgsql.xml
+C:\Users\Admin\Desktop\флешка\Курсовой проект 3 курс\src\Theatre\bin\Debug\MimeKit.pdb
+C:\Users\Admin\Desktop\флешка\Курсовой проект 3 курс\src\Theatre\bin\Debug\MimeKit.xml
+C:\Users\Admin\Desktop\флешка\Курсовой проект 3 курс\src\Theatre\bin\Debug\MailKit.pdb
+C:\Users\Admin\Desktop\флешка\Курсовой проект 3 курс\src\Theatre\bin\Debug\MailKit.xml
+C:\Users\Admin\Desktop\флешка\Курсовой проект 3 курс\src\Theatre\bin\Debug\MailKit.dll.config
+C:\Users\Admin\Desktop\флешка\Курсовой проект 3 курс\src\Theatre\bin\Debug\Microsoft.EntityFrameworkCore.xml
+C:\Users\Admin\Desktop\флешка\Курсовой проект 3 курс\src\Theatre\bin\Debug\System.Memory.xml
+C:\Users\Admin\Desktop\флешка\Курсовой проект 3 курс\src\Theatre\bin\Debug\Microsoft.Bcl.HashCode.xml
+C:\Users\Admin\Desktop\флешка\Курсовой проект 3 курс\src\Theatre\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\Admin\Desktop\флешка\Курсовой проект 3 курс\src\Theatre\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\Admin\Desktop\флешка\Курсовой проект 3 курс\src\Theatre\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\Admin\Desktop\флешка\Курсовой проект 3 курс\src\Theatre\bin\Debug\System.Threading.Channels.xml
+C:\Users\Admin\Desktop\флешка\Курсовой проект 3 курс\src\Theatre\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\Admin\Desktop\флешка\Курсовой проект 3 курс\src\Theatre\bin\Debug\System.Text.Json.xml
+C:\Users\Admin\Desktop\флешка\Курсовой проект 3 курс\src\Theatre\bin\Debug\System.Buffers.xml
+C:\Users\Admin\Desktop\флешка\Курсовой проект 3 курс\src\Theatre\bin\Debug\System.Collections.Immutable.xml
+C:\Users\Admin\Desktop\флешка\Курсовой проект 3 курс\src\Theatre\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Admin\Desktop\флешка\Курсовой проект 3 курс\src\Theatre\bin\Debug\BouncyCastle.Cryptography.xml
+C:\Users\Admin\Desktop\флешка\Курсовой проект 3 курс\src\Theatre\bin\Debug\System.Formats.Asn1.xml
+C:\Users\Admin\Desktop\флешка\Курсовой проект 3 курс\src\Theatre\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\Admin\Desktop\флешка\Курсовой проект 3 курс\src\Theatre\bin\Debug\Microsoft.Extensions.Caching.Abstractions.xml
+C:\Users\Admin\Desktop\флешка\Курсовой проект 3 курс\src\Theatre\bin\Debug\Microsoft.EntityFrameworkCore.Abstractions.xml
+C:\Users\Admin\Desktop\флешка\Курсовой проект 3 курс\src\Theatre\bin\Debug\Microsoft.Extensions.DependencyInjection.xml
+C:\Users\Admin\Desktop\флешка\Курсовой проект 3 курс\src\Theatre\bin\Debug\Microsoft.Extensions.Logging.xml
+C:\Users\Admin\Desktop\флешка\Курсовой проект 3 курс\src\Theatre\bin\Debug\Microsoft.Extensions.Caching.Memory.xml
+C:\Users\Admin\Desktop\флешка\Курсовой проект 3 курс\src\Theatre\bin\Debug\Microsoft.Extensions.Options.xml
+C:\Users\Admin\Desktop\флешка\Курсовой проект 3 курс\src\Theatre\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Admin\Desktop\флешка\Курсовой проект 3 курс\src\Theatre\bin\Debug\System.ValueTuple.xml
+C:\Users\Admin\Desktop\флешка\Курсовой проект 3 курс\src\Theatre\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\Admin\Desktop\флешка\Курсовой проект 3 курс\src\Theatre\bin\Debug\Microsoft.Extensions.Primitives.xml
+C:\Users\Admin\Desktop\флешка\Курсовой проект 3 курс\src\Theatre\obj\Debug\App.baml
+C:\Users\Admin\Desktop\флешка\Курсовой проект 3 курс\src\Theatre\obj\Debug\Captcha.baml
+C:\Users\Admin\Desktop\флешка\Курсовой проект 3 курс\src\Theatre\obj\Debug\MainTheatre.baml
+C:\Users\Admin\Desktop\флешка\Курсовой проект 3 курс\src\Theatre\obj\Debug\MainWindow.baml
+C:\Users\Admin\Desktop\флешка\Курсовой проект 3 курс\src\Theatre\obj\Debug\Theatre.g.resources
+C:\Users\Admin\Desktop\флешка\Курсовой проект 3 курс\src\Theatre\obj\Debug\Theatre.Properties.Resources.resources
+C:\Users\Admin\Desktop\флешка\Курсовой проект 3 курс\src\Theatre\obj\Debug\Theatre.csproj.GenerateResource.cache
+C:\Users\Admin\Desktop\флешка\Курсовой проект 3 курс\src\Theatre\obj\Debug\Theatre.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\флешка\Курсовой проект 3 курс\src\Theatre\obj\Debug\Theatre.csproj.Up2Date
