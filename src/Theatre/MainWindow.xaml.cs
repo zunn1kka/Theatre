@@ -38,7 +38,7 @@ namespace Theatre
             string login = LoginTextBox.Text;
             string password = PasswordBox.Password;
 
-            if (string.IsNullOrEmpty(login) || string.IsNullOrEmpty(password))
+           /* if (string.IsNullOrEmpty(login) || string.IsNullOrEmpty(password))
             {
                 MessageBox.Show("Заполните все поля!");
                 return;
@@ -47,12 +47,11 @@ namespace Theatre
             {
                 MessageBox.Show("Пользователь не существует", "Ошибка", MessageBoxButton.OK, MessageBoxImage.Error);
                 return;
-            }
-            else
-            {       
+            } */
+               
                 captcha.Show();
                 this.Close();
-            }
+            
         }
 
         private async void RegisterButton_Click(object sender, RoutedEventArgs e)

@@ -7,6 +7,7 @@
         mc:Ignorable="d"
         Title="MainTheatre" Height="450" Width="800">
     <Grid Background="{StaticResource ColorBackground}">
+        
         <Grid.RowDefinitions>
             <RowDefinition Height="Auto" />
             <RowDefinition Height="*" />
@@ -39,7 +40,7 @@
                      Width="40" Height="40" Click="ProfileButton_Click" ToolTip="Перейти в профиль" 
                      Grid.Column="2" VerticalAlignment="Center" Margin="10,0,0,0">
                     <Border Background="Yellow" CornerRadius="20">
-                        <Image Source="/Assets/UserProfile.jpg" Stretch="UniformToFill" />
+                        
                     </Border>
                 </Button>
             </Grid>
@@ -84,5 +85,6 @@
         <Border Grid.Row="2" Background="{StaticResource ColorAccent}" Padding="10">
             <TextBlock Text="Театральная система" Foreground="Black" FontSize="20" Style="{StaticResource ModernTextBlockStyle}" HorizontalAlignment="Center" />
         </Border>
+        <Frame x:Name="MainFrame" NavigationUIVisibility="Hidden"/>
     </Grid>
 </Window>

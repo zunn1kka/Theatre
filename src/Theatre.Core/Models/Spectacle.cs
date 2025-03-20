@@ -14,5 +14,6 @@ namespace Theatre.Core.Models
         public int QuantityActors { get; set; }
         public BitmapImage Image { get; set; }
         public List<Genre> Genres { get; set; } = new List<Genre>();
+        public List<Seats> Seats { get; set; } = new List<Seats>();
     }
 }

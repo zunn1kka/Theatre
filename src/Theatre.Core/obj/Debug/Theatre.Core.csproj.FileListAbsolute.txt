@@ -10,3 +10,9 @@ C:\Users\Admin\Desktop\флешка\Курсовой проект 3 курс\src
 C:\Users\Admin\Desktop\флешка\Курсовой проект 3 курс\src\Theatre.Core\obj\Debug\Theatre.Core.csproj.CoreCompileInputs.cache
 C:\Users\Admin\Desktop\флешка\Курсовой проект 3 курс\src\Theatre.Core\obj\Debug\Theatre.Core.dll
 C:\Users\Admin\Desktop\флешка\Курсовой проект 3 курс\src\Theatre.Core\obj\Debug\Theatre.Core.pdb
+D:\Новая папка\Theatre\src\Theatre.Core\bin\Debug\Theatre.Core.dll
+D:\Новая папка\Theatre\src\Theatre.Core\bin\Debug\Theatre.Core.pdb
+D:\Новая папка\Theatre\src\Theatre.Core\obj\Debug\Theatre.Core.csproj.AssemblyReference.cache
+D:\Новая папка\Theatre\src\Theatre.Core\obj\Debug\Theatre.Core.csproj.CoreCompileInputs.cache
+D:\Новая папка\Theatre\src\Theatre.Core\obj\Debug\Theatre.Core.dll
+D:\Новая папка\Theatre\src\Theatre.Core\obj\Debug\Theatre.Core.pdb

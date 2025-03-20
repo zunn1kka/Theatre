@@ -12,6 +12,7 @@ using System.Windows.Media;
 using System.Windows.Media.Imaging;
 using System.Windows.Shapes;
 using Theatre.Business.Services;
+using Theatre.Pages;
 
 namespace Theatre
 {
@@ -24,9 +25,10 @@ namespace Theatre
         public MainTheatre()
         {
             InitializeComponent();
-            _filterSearchSort = new FilterSearchSort();
+           /* _filterSearchSort = new FilterSearchSort();
             DataContext = _filterSearchSort;
-            _filterSearchSort.LoadDataASync();
+            _filterSearchSort.LoadDataASync(); */
+            
         }
 
         private void SearchTextBox_TextChanged(object sender, TextChangedEventArgs e)
@@ -46,7 +48,9 @@ namespace Theatre
 
         private void ProfileButton_Click(object sender, RoutedEventArgs e)
         {
-
+            var profile = new Profile();
+            profile.Show();
+            this.Close();
         }
 
         private void SortComboBox_SelectionChanged(object sender, SelectionChangedEventArgs e)

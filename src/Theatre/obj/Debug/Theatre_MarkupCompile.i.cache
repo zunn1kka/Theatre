@@ -4,17 +4,17 @@
 winexe
 C#
 .cs
-C:\Users\Admin\Desktop\флешка\Курсовой проект 3 курс\src\Theatre\obj\Debug\
+D:\Новая папка\Theatre\src\Theatre\obj\Debug\
 Theatre
 none
 false
 DEBUG;TRACE
-C:\Users\Admin\Desktop\флешка\Курсовой проект 3 курс\src\Theatre\App.xaml
-31735399139
+D:\Новая папка\Theatre\src\Theatre\App.xaml
+6-906071290
 
-81752231549
-161726815009
-Captcha.xaml;MainTheatre.xaml;MainWindow.xaml;
+131549575887
+125-1729395327
+Captcha.xaml;MainTheatre.xaml;MainWindow.xaml;Pages\SpectaclePage.xaml;Pages\UserProfilePage.xaml;Profile.xaml;
 
 True
 

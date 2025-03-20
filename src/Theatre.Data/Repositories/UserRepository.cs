@@ -8,6 +8,6 @@ namespace Theatre.Data.Repositories
 {
     internal class UserRepository 
     {
-        //private readonly DatabaseContext _context;
+       // private readonly DatabaseContext _context;
     }
 }
