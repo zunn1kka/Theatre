@@ -1,0 +1,68 @@
+﻿<Page x:Class="Theatre.Pages.AddSpectaclePage"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+      xmlns:local="clr-namespace:Theatre.Pages.Converters"
+      mc:Ignorable="d" 
+      d:DesignHeight="500" d:DesignWidth="800"
+      Title="AddSpectaclePage">
+
+    <Page.Resources>
+        <local:ByteArrayToImageConverter x:Key="ByteArrayToImageConverter" />
+    </Page.Resources>
+
+    <Grid Margin="10">
+        <Grid.RowDefinitions>
+            <RowDefinition Height="Auto" />
+            <RowDefinition Height="Auto" />
+            <RowDefinition Height="Auto" />
+            <RowDefinition Height="Auto" />
+            <RowDefinition Height="Auto" />
+            <RowDefinition Height="Auto" />
+            <RowDefinition Height="Auto" />
+            <RowDefinition Height="Auto" />
+            <RowDefinition Height="Auto" />
+            <RowDefinition Height="Auto" />
+        </Grid.RowDefinitions>
+
+        <!-- Название спектакля -->
+        <TextBlock Text="Название спектакля:" Grid.Row="0" Style="{StaticResource ModernTextBlockStyle}" />
+        <TextBox x:Name="NameTextBox" Grid.Row="1" Margin="0,5,0,10" 
+                 Style="{StaticResource ModernTextBoxStyle}" 
+                 Text="{Binding NewSpectacle.Name, Mode=TwoWay}" />
+
+        <!-- Количество актеров -->
+        <TextBlock Text="Количество актеров:" Grid.Row="2" Style="{StaticResource ModernTextBlockStyle}" />
+        <TextBox x:Name="QuantityActorsTextBox" Grid.Row="3" Margin="0,5,0,10" 
+                 Style="{StaticResource ModernTextBoxStyle}" 
+                 Text="{Binding NewSpectacle.QuantityActors, Mode=TwoWay}" />
+
+        <!-- Количество мест -->
+        <TextBlock Text="Количество мест:" Grid.Row="4" Style="{StaticResource ModernTextBlockStyle}" />
+        <TextBox x:Name="SeatCountTextBox" Grid.Row="5" Margin="0,5,0,10" 
+                 Style="{StaticResource ModernTextBoxStyle}" 
+                 Text="{Binding SeatCount, Mode=TwoWay}" />
+
+        <!-- Цена за место -->
+        <TextBlock Text="Цена за место:" Grid.Row="6" Style="{StaticResource ModernTextBlockStyle}" />
+        <TextBox x:Name="SeatPriceTextBox" Grid.Row="7" Margin="0,5,0,10" 
+                 Style="{StaticResource ModernTextBoxStyle}" 
+                 Text="{Binding SeatPrice, Mode=TwoWay}" />
+
+        <!-- Изображение -->
+        <TextBlock Text="Изображение:" Grid.Row="8" Style="{StaticResource ModernTextBlockStyle}" />
+        <Image Source="{Binding NewSpectacle.Image, Converter={StaticResource ByteArrayToImageConverter}}" 
+               Width="200" Height="200" Grid.Row="9" Margin="0,5,0,10" />
+
+        <!-- Кнопки -->
+        <StackPanel Grid.Row="10" Orientation="Horizontal" HorizontalAlignment="Right">
+            <Button Content="Выбрать изображение" Margin="5" Click="SelectImageButton_Click" 
+                    Style="{StaticResource ModernButtonStyle}" />
+            <Button Content="Сохранить" Width="100" Margin="5" Click="SaveButton_Click" 
+                    Style="{StaticResource ModernButtonStyle}" />
+            <Button Content="Отмена" Width="100" Margin="5" Click="CancelButton_Click" 
+                    Style="{StaticResource ModernButtonStyle}" />
+        </StackPanel>
+    </Grid>
+</Page>

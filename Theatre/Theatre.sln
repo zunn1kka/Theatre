@@ -1,0 +1,40 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.12.35728.132 d17.12
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Theatre", "Theatre.csproj", "{4161EE6F-D59E-450F-B93A-B8D144B7599C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Theatre.Business", "..\Theatre.Bussines\Theatre.Business.csproj", "{D2754710-8435-458D-8A2D-FC8EA552463C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Theatre.Core", "..\Theatre.Core\Theatre.Core.csproj", "{4AAE75B8-A3D5-4159-B528-846588F0855F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Theatre.Data", "..\Theatre.Data\Theatre.Data.csproj", "{DDA23117-46DA-456D-B178-1B0F1E858D23}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4161EE6F-D59E-450F-B93A-B8D144B7599C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4161EE6F-D59E-450F-B93A-B8D144B7599C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4161EE6F-D59E-450F-B93A-B8D144B7599C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4161EE6F-D59E-450F-B93A-B8D144B7599C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D2754710-8435-458D-8A2D-FC8EA552463C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D2754710-8435-458D-8A2D-FC8EA552463C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D2754710-8435-458D-8A2D-FC8EA552463C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D2754710-8435-458D-8A2D-FC8EA552463C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4AAE75B8-A3D5-4159-B528-846588F0855F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4AAE75B8-A3D5-4159-B528-846588F0855F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4AAE75B8-A3D5-4159-B528-846588F0855F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4AAE75B8-A3D5-4159-B528-846588F0855F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DDA23117-46DA-456D-B178-1B0F1E858D23}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DDA23117-46DA-456D-B178-1B0F1E858D23}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DDA23117-46DA-456D-B178-1B0F1E858D23}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DDA23117-46DA-456D-B178-1B0F1E858D23}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

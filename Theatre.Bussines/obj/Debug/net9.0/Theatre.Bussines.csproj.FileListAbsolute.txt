@@ -1,0 +1,11 @@
+C:\Users\Admin\Documents\TheatreCourseWork\Theatre.Bussines\bin\Debug\net9.0\Theatre.Bussines.deps.json
+C:\Users\Admin\Documents\TheatreCourseWork\Theatre.Bussines\bin\Debug\net9.0\Theatre.Bussines.dll
+C:\Users\Admin\Documents\TheatreCourseWork\Theatre.Bussines\bin\Debug\net9.0\Theatre.Bussines.pdb
+C:\Users\Admin\Documents\TheatreCourseWork\Theatre.Bussines\obj\Debug\net9.0\Theatre.Bussines.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Documents\TheatreCourseWork\Theatre.Bussines\obj\Debug\net9.0\Theatre.Bussines.AssemblyInfoInputs.cache
+C:\Users\Admin\Documents\TheatreCourseWork\Theatre.Bussines\obj\Debug\net9.0\Theatre.Bussines.AssemblyInfo.cs
+C:\Users\Admin\Documents\TheatreCourseWork\Theatre.Bussines\obj\Debug\net9.0\Theatre.Bussines.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Documents\TheatreCourseWork\Theatre.Bussines\obj\Debug\net9.0\Theatre.Bussines.dll
+C:\Users\Admin\Documents\TheatreCourseWork\Theatre.Bussines\obj\Debug\net9.0\refint\Theatre.Bussines.dll
+C:\Users\Admin\Documents\TheatreCourseWork\Theatre.Bussines\obj\Debug\net9.0\Theatre.Bussines.pdb
+C:\Users\Admin\Documents\TheatreCourseWork\Theatre.Bussines\obj\Debug\net9.0\ref\Theatre.Bussines.dll
