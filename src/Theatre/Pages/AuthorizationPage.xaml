@@ -1,0 +1,125 @@
+﻿<Page x:Class="Theatre.Pages.AuthorizationPage"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+      mc:Ignorable="d" 
+      d:DesignHeight="800" d:DesignWidth="600"
+      Title="Авторизация">
+
+    <Grid>
+        <!-- Фоновое изображение театра -->
+        <Grid.Background>
+            <ImageBrush ImageSource="/Assets/TheaterBackground.jpg" 
+                       Stretch="UniformToFill" Opacity="0.9"/>
+        </Grid.Background>
+
+        <!-- Основное содержимое -->
+        <Grid Background="Transparent">
+            <Grid.RowDefinitions>
+                <RowDefinition Height="*"/>
+                <RowDefinition Height="Auto"/>
+                <RowDefinition Height="Auto"/>
+                <RowDefinition Height="*"/>
+            </Grid.RowDefinitions>
+
+            <!-- Контейнер формы авторизации -->
+            <Border Grid.Row="1"
+                    Background="#E6FFFFFF"  
+                CornerRadius="8"
+                    Padding="40"
+                    BorderBrush="#A0522D"
+                BorderThickness="1.5"
+                    Width="410"
+                    HorizontalAlignment="Center"
+                    Margin="0,0,0,20"
+                    Effect="{StaticResource ShadowEffect}">
+                <StackPanel>
+                    <TextBlock Text="Авторизация" 
+                               FontSize="24"
+                               FontWeight="SemiBold"
+                               HorizontalAlignment="Center"
+                               Margin="0,0,0,25"
+                               Foreground="#5D4037"/>
+                   
+
+                    <TextBlock Text="Логин:" Style="{StaticResource CardTitleTextStyle}" Foreground="#5D4037"
+                               HorizontalAlignment="Left"/>
+                    <TextBox Style="{StaticResource BaseTextBoxStyle}"
+                             x:Name="LoginTextBox"
+                             Margin="0,5,0,20"/>
+
+                        <TextBlock Text="Пароль:" Style="{StaticResource CardTitleTextStyle}" Foreground="#5D4037"
+                                   HorizontalAlignment="Left"/>
+                        <PasswordBox Style="{StaticResource ModernPasswordBoxBaseStyle}" 
+                                 x:Name="PasswordBox"
+                                 Margin="0,5,0,25"/>
+
+                        <Button Content="Войти" 
+                            Style="{StaticResource ModernButtonStyle}" 
+                            Click="LoginButton_Click"
+                            HorizontalAlignment="Center"
+                            Padding="15,8"
+                            Width="200"
+                                IsDefault="True"
+                            Foreground="White"/>
+
+                            <TextBlock Margin="0,15,0,0" HorizontalAlignment="Center" Foreground="#5D4037">
+                        <Hyperlink Command="{Binding NavigateToRegistrationCommand}">
+                            Нет аккаунта? Зарегистрируйтесь
+                        </Hyperlink>
+                            </TextBlock>
+                </StackPanel>
+            </Border>
+
+            <!-- Контейнер социальных сетей -->
+            <Border Grid.Row="2"
+                    Background="#E6FFFFFF"
+                    CornerRadius="8"
+                    Padding="20"
+                    BorderBrush="#A0522D"
+                    BorderThickness="1.5"
+                    Width="410"
+                    HorizontalAlignment="Center"
+                    Margin="0,0,0,40"
+                    Effect="{StaticResource ShadowEffect}">
+                <StackPanel>
+                    <TextBlock Text="Социальные сети разработчика" 
+                               FontSize="24"
+                               FontWeight="SemiBold"
+                               HorizontalAlignment="Center"
+                               Margin="0,0,0,25"
+                               Foreground="#5D4037"/>
+
+                    <!-- Ссылки на соцсети -->
+                    <StackPanel Orientation="Horizontal" HorizontalAlignment="Center">
+                        <Image Source="/Assets/vk.png" Width="20" Height="20" Margin="0,0,5,0"/>
+                        <TextBlock Style="{StaticResource CardTitleTextStyle}" Foreground="#5D4037">
+                            <Hyperlink NavigateUri="https://vk.com/demidov_006" RequestNavigate="Vk_RequestNavigate">
+                                Vk
+                            </Hyperlink>
+                        </TextBlock>
+                    </StackPanel>
+
+                    <StackPanel Orientation="Horizontal" HorizontalAlignment="Center">
+                        <Image Source="/Assets/tg.png" Height="20" Width="20" Margin="0,0,5,0"/>
+                        <TextBlock Style="{StaticResource CardTitleTextStyle}" Foreground="#5D4037">
+                            <Hyperlink NavigateUri="https://t.me/zzzzzzxsd" RequestNavigate="Tg_RequestNavigate">
+                                Telegram
+                            </Hyperlink>
+                        </TextBlock>
+                    </StackPanel>
+
+                    <StackPanel Orientation="Horizontal" HorizontalAlignment="Center">
+                        <Image Source="/Assets/github.png" Width="20" Height="20" Margin="0,0,5,0"/>
+                        <TextBlock Style="{StaticResource CardTitleTextStyle}" Foreground="#5D4037">
+                            <Hyperlink NavigateUri="https://github.com/zunn1kka" RequestNavigate="Github_RequestNavigate">
+                                Github
+                            </Hyperlink>
+                        </TextBlock>
+                    </StackPanel>
+                </StackPanel>
+            </Border>
+        </Grid>
+    </Grid>
+</Page>

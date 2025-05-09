@@ -1,0 +1,529 @@
+C:\Users\ISP\Documents\Демидов Денис ИСП33\Курсовой проект 3 курс\src\Theatre\bin\Debug\net7.0-windows\Theatre.exe
+C:\Users\ISP\Documents\Демидов Денис ИСП33\Курсовой проект 3 курс\src\Theatre\bin\Debug\net7.0-windows\Theatre.deps.json
+C:\Users\ISP\Documents\Демидов Денис ИСП33\Курсовой проект 3 курс\src\Theatre\bin\Debug\net7.0-windows\Theatre.runtimeconfig.json
+C:\Users\ISP\Documents\Демидов Денис ИСП33\Курсовой проект 3 курс\src\Theatre\bin\Debug\net7.0-windows\Theatre.dll
+C:\Users\ISP\Documents\Демидов Денис ИСП33\Курсовой проект 3 курс\src\Theatre\bin\Debug\net7.0-windows\Theatre.pdb
+C:\Users\ISP\Documents\Демидов Денис ИСП33\Курсовой проект 3 курс\src\Theatre\obj\Debug\net7.0-windows\MainWindow.g.cs
+C:\Users\ISP\Documents\Демидов Денис ИСП33\Курсовой проект 3 курс\src\Theatre\obj\Debug\net7.0-windows\App.g.cs
+C:\Users\ISP\Documents\Демидов Денис ИСП33\Курсовой проект 3 курс\src\Theatre\obj\Debug\net7.0-windows\Theatre_MarkupCompile.cache
+C:\Users\ISP\Documents\Демидов Денис ИСП33\Курсовой проект 3 курс\src\Theatre\obj\Debug\net7.0-windows\Theatre_MarkupCompile.lref
+C:\Users\ISP\Documents\Демидов Денис ИСП33\Курсовой проект 3 курс\src\Theatre\obj\Debug\net7.0-windows\MainWindow.baml
+C:\Users\ISP\Documents\Демидов Денис ИСП33\Курсовой проект 3 курс\src\Theatre\obj\Debug\net7.0-windows\Theatre.g.resources
+C:\Users\ISP\Documents\Демидов Денис ИСП33\Курсовой проект 3 курс\src\Theatre\obj\Debug\net7.0-windows\Theatre.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ISP\Documents\Демидов Денис ИСП33\Курсовой проект 3 курс\src\Theatre\obj\Debug\net7.0-windows\Theatre.AssemblyInfoInputs.cache
+C:\Users\ISP\Documents\Демидов Денис ИСП33\Курсовой проект 3 курс\src\Theatre\obj\Debug\net7.0-windows\Theatre.AssemblyInfo.cs
+C:\Users\ISP\Documents\Демидов Денис ИСП33\Курсовой проект 3 курс\src\Theatre\obj\Debug\net7.0-windows\Theatre.csproj.CoreCompileInputs.cache
+C:\Users\ISP\Documents\Демидов Денис ИСП33\Курсовой проект 3 курс\src\Theatre\obj\Debug\net7.0-windows\Theatre.dll
+C:\Users\ISP\Documents\Демидов Денис ИСП33\Курсовой проект 3 курс\src\Theatre\obj\Debug\net7.0-windows\refint\Theatre.dll
+C:\Users\ISP\Documents\Демидов Денис ИСП33\Курсовой проект 3 курс\src\Theatre\obj\Debug\net7.0-windows\Theatre.pdb
+C:\Users\ISP\Documents\Демидов Денис ИСП33\Курсовой проект 3 курс\src\Theatre\obj\Debug\net7.0-windows\Theatre.genruntimeconfig.cache
+C:\Users\ISP\Documents\Демидов Денис ИСП33\Курсовой проект 3 курс\src\Theatre\obj\Debug\net7.0-windows\ref\Theatre.dll
+C:\Users\ISP\Documents\Демидов Денис ИСП33\Курсовой проект 3 курс\src\Theatre\bin\Debug\net7.0-windows\Theatre.Business.dll
+C:\Users\ISP\Documents\Демидов Денис ИСП33\Курсовой проект 3 курс\src\Theatre\bin\Debug\net7.0-windows\Theatre.Core.dll
+C:\Users\ISP\Documents\Демидов Денис ИСП33\Курсовой проект 3 курс\src\Theatre\bin\Debug\net7.0-windows\Theatre.Data.dll
+C:\Users\ISP\Documents\Демидов Денис ИСП33\Курсовой проект 3 курс\src\Theatre\bin\Debug\net7.0-windows\Theatre.Business.pdb
+C:\Users\ISP\Documents\Демидов Денис ИСП33\Курсовой проект 3 курс\src\Theatre\bin\Debug\net7.0-windows\Theatre.Core.pdb
+C:\Users\ISP\Documents\Демидов Денис ИСП33\Курсовой проект 3 курс\src\Theatre\bin\Debug\net7.0-windows\Theatre.Data.pdb
+C:\Users\ISP\Documents\Демидов Денис ИСП33\Курсовой проект 3 курс\src\Theatre\obj\Debug\net7.0-windows\Theatre.csproj.AssemblyReference.cache
+C:\Users\ISP\Documents\Демидов Денис ИСП33\Курсовой проект 3 курс\src\Theatre\obj\Debug\net7.0-windows\Theatre.csproj.CopyComplete
+C:\Users\ISP\Documents\Демидов Денис ИСП33\Курсовой проект 3 курс\src\Theatre\obj\Debug\net7.0-windows\Pages\SpectaclePage.baml
+C:\Users\ISP\Documents\Демидов Денис ИСП33\Курсовой проект 3 курс\src\Theatre\obj\Debug\net7.0-windows\Pages\AddSpectaclePage.g.cs
+C:\Users\ISP\Documents\Демидов Денис ИСП33\Курсовой проект 3 курс\src\Theatre\obj\Debug\net7.0-windows\Pages\AuthorizationPage.g.cs
+C:\Users\ISP\Documents\Демидов Денис ИСП33\Курсовой проект 3 курс\src\Theatre\obj\Debug\net7.0-windows\Pages\CaptchaPage.g.cs
+C:\Users\ISP\Documents\Демидов Денис ИСП33\Курсовой проект 3 курс\src\Theatre\obj\Debug\net7.0-windows\Pages\MainPage.g.cs
+C:\Users\ISP\Documents\Демидов Денис ИСП33\Курсовой проект 3 курс\src\Theatre\obj\Debug\net7.0-windows\Pages\RegistrationPage.g.cs
+C:\Users\ISP\Documents\Демидов Денис ИСП33\Курсовой проект 3 курс\src\Theatre\obj\Debug\net7.0-windows\Pages\SpectaclePage.g.cs
+C:\Users\ISP\Documents\Демидов Денис ИСП33\Курсовой проект 3 курс\src\Theatre\obj\Debug\net7.0-windows\Pages\UserProfilePage.g.cs
+C:\Users\ISP\Documents\Демидов Денис ИСП33\Курсовой проект 3 курс\src\Theatre\obj\Debug\net7.0-windows\GeneratedInternalTypeHelper.g.cs
+C:\Users\ISP\Documents\Демидов Денис ИСП33\Курсовой проект 3 курс\src\Theatre\bin\Debug\net7.0-windows\BouncyCastle.Cryptography.dll
+C:\Users\ISP\Documents\Демидов Денис ИСП33\Курсовой проект 3 курс\src\Theatre\bin\Debug\net7.0-windows\MailKit.dll
+C:\Users\ISP\Documents\Демидов Денис ИСП33\Курсовой проект 3 курс\src\Theatre\bin\Debug\net7.0-windows\Microsoft.AspNetCore.Authentication.dll
+C:\Users\ISP\Documents\Демидов Денис ИСП33\Курсовой проект 3 курс\src\Theatre\bin\Debug\net7.0-windows\Microsoft.AspNetCore.Authentication.Abstractions.dll
+C:\Users\ISP\Documents\Демидов Денис ИСП33\Курсовой проект 3 курс\src\Theatre\bin\Debug\net7.0-windows\Microsoft.AspNetCore.Authentication.Cookies.dll
+C:\Users\ISP\Documents\Демидов Денис ИСП33\Курсовой проект 3 курс\src\Theatre\bin\Debug\net7.0-windows\Microsoft.AspNetCore.Authentication.Core.dll
+C:\Users\ISP\Documents\Демидов Денис ИСП33\Курсовой проект 3 курс\src\Theatre\bin\Debug\net7.0-windows\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\ISP\Documents\Демидов Денис ИСП33\Курсовой проект 3 курс\src\Theatre\bin\Debug\net7.0-windows\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\ISP\Documents\Демидов Денис ИСП33\Курсовой проект 3 курс\src\Theatre\bin\Debug\net7.0-windows\Microsoft.AspNetCore.DataProtection.dll
+C:\Users\ISP\Documents\Демидов Денис ИСП33\Курсовой проект 3 курс\src\Theatre\bin\Debug\net7.0-windows\Microsoft.AspNetCore.DataProtection.Abstractions.dll
+C:\Users\ISP\Documents\Демидов Денис ИСП33\Курсовой проект 3 курс\src\Theatre\bin\Debug\net7.0-windows\Microsoft.AspNetCore.Hosting.Abstractions.dll
+C:\Users\ISP\Documents\Демидов Денис ИСП33\Курсовой проект 3 курс\src\Theatre\bin\Debug\net7.0-windows\Microsoft.AspNetCore.Hosting.Server.Abstractions.dll
+C:\Users\ISP\Documents\Демидов Денис ИСП33\Курсовой проект 3 курс\src\Theatre\bin\Debug\net7.0-windows\Microsoft.AspNetCore.Http.dll
+C:\Users\ISP\Documents\Демидов Денис ИСП33\Курсовой проект 3 курс\src\Theatre\bin\Debug\net7.0-windows\Microsoft.AspNetCore.Http.Abstractions.dll
+C:\Users\ISP\Documents\Демидов Денис ИСП33\Курсовой проект 3 курс\src\Theatre\bin\Debug\net7.0-windows\Microsoft.AspNetCore.Http.Extensions.dll
+C:\Users\ISP\Documents\Демидов Денис ИСП33\Курсовой проект 3 курс\src\Theatre\bin\Debug\net7.0-windows\Microsoft.AspNetCore.Http.Features.dll
+C:\Users\ISP\Documents\Демидов Денис ИСП33\Курсовой проект 3 курс\src\Theatre\bin\Debug\net7.0-windows\Microsoft.AspNetCore.Identity.dll
+C:\Users\ISP\Documents\Демидов Денис ИСП33\Курсовой проект 3 курс\src\Theatre\bin\Debug\net7.0-windows\Microsoft.AspNetCore.WebUtilities.dll
+C:\Users\ISP\Documents\Демидов Денис ИСП33\Курсовой проект 3 курс\src\Theatre\bin\Debug\net7.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\ISP\Documents\Демидов Денис ИСП33\Курсовой проект 3 курс\src\Theatre\bin\Debug\net7.0-windows\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\ISP\Documents\Демидов Денис ИСП33\Курсовой проект 3 курс\src\Theatre\bin\Debug\net7.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\ISP\Documents\Демидов Денис ИСП33\Курсовой проект 3 курс\src\Theatre\bin\Debug\net7.0-windows\Microsoft.Extensions.Diagnostics.Abstractions.dll
+C:\Users\ISP\Documents\Демидов Денис ИСП33\Курсовой проект 3 курс\src\Theatre\bin\Debug\net7.0-windows\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\ISP\Documents\Демидов Денис ИСП33\Курсовой проект 3 курс\src\Theatre\bin\Debug\net7.0-windows\Microsoft.Extensions.Hosting.Abstractions.dll
+C:\Users\ISP\Documents\Демидов Денис ИСП33\Курсовой проект 3 курс\src\Theatre\bin\Debug\net7.0-windows\Microsoft.Extensions.Identity.Core.dll
+C:\Users\ISP\Documents\Демидов Денис ИСП33\Курсовой проект 3 курс\src\Theatre\bin\Debug\net7.0-windows\Microsoft.Extensions.Logging.dll
+C:\Users\ISP\Documents\Демидов Денис ИСП33\Курсовой проект 3 курс\src\Theatre\bin\Debug\net7.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\ISP\Documents\Демидов Денис ИСП33\Курсовой проект 3 курс\src\Theatre\bin\Debug\net7.0-windows\Microsoft.Extensions.ObjectPool.dll
+C:\Users\ISP\Documents\Демидов Денис ИСП33\Курсовой проект 3 курс\src\Theatre\bin\Debug\net7.0-windows\Microsoft.Extensions.Options.dll
+C:\Users\ISP\Documents\Демидов Денис ИСП33\Курсовой проект 3 курс\src\Theatre\bin\Debug\net7.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\ISP\Documents\Демидов Денис ИСП33\Курсовой проект 3 курс\src\Theatre\bin\Debug\net7.0-windows\Microsoft.Extensions.WebEncoders.dll
+C:\Users\ISP\Documents\Демидов Денис ИСП33\Курсовой проект 3 курс\src\Theatre\bin\Debug\net7.0-windows\Microsoft.Net.Http.Headers.dll
+C:\Users\ISP\Documents\Демидов Денис ИСП33\Курсовой проект 3 курс\src\Theatre\bin\Debug\net7.0-windows\MimeKit.dll
+C:\Users\ISP\Documents\Демидов Денис ИСП33\Курсовой проект 3 курс\src\Theatre\bin\Debug\net7.0-windows\Npgsql.dll
+C:\Users\ISP\Documents\Демидов Денис ИСП33\Курсовой проект 3 курс\src\Theatre\bin\Debug\net7.0-windows\PdfSharp.Charting.dll
+C:\Users\ISP\Documents\Демидов Денис ИСП33\Курсовой проект 3 курс\src\Theatre\bin\Debug\net7.0-windows\PdfSharp.Quality.dll
+C:\Users\ISP\Documents\Демидов Денис ИСП33\Курсовой проект 3 курс\src\Theatre\bin\Debug\net7.0-windows\PdfSharp.Snippets.dll
+C:\Users\ISP\Documents\Демидов Денис ИСП33\Курсовой проект 3 курс\src\Theatre\bin\Debug\net7.0-windows\PdfSharp.System.dll
+C:\Users\ISP\Documents\Демидов Денис ИСП33\Курсовой проект 3 курс\src\Theatre\bin\Debug\net7.0-windows\PdfSharp.WPFonts.dll
+C:\Users\ISP\Documents\Демидов Денис ИСП33\Курсовой проект 3 курс\src\Theatre\bin\Debug\net7.0-windows\PdfSharp.dll
+C:\Users\ISP\Documents\Демидов Денис ИСП33\Курсовой проект 3 курс\src\Theatre\bin\Debug\net7.0-windows\System.Diagnostics.DiagnosticSource.dll
+C:\Users\ISP\Documents\Демидов Денис ИСП33\Курсовой проект 3 курс\src\Theatre\bin\Debug\net7.0-windows\System.Formats.Asn1.dll
+C:\Users\ISP\Documents\Демидов Денис ИСП33\Курсовой проект 3 курс\src\Theatre\bin\Debug\net7.0-windows\System.Security.Cryptography.Pkcs.dll
+C:\Users\ISP\Documents\Демидов Денис ИСП33\Курсовой проект 3 курс\src\Theatre\bin\Debug\net7.0-windows\System.Security.Cryptography.Xml.dll
+C:\Users\ISP\Documents\Демидов Денис ИСП33\Курсовой проект 3 курс\src\Theatre\bin\Debug\net7.0-windows\System.Text.Encoding.CodePages.dll
+C:\Users\ISP\Documents\Демидов Денис ИСП33\Курсовой проект 3 курс\src\Theatre\bin\Debug\net7.0-windows\System.Text.Encodings.Web.dll
+C:\Users\ISP\Documents\Демидов Денис ИСП33\Курсовой проект 3 курс\src\Theatre\bin\Debug\net7.0-windows\System.Text.Json.dll
+C:\Users\ISP\Documents\Демидов Денис ИСП33\Курсовой проект 3 курс\src\Theatre\bin\Debug\net7.0-windows\de\PdfSharp.Charting.resources.dll
+C:\Users\ISP\Documents\Демидов Денис ИСП33\Курсовой проект 3 курс\src\Theatre\bin\Debug\net7.0-windows\de\PdfSharp.resources.dll
+C:\Users\ISP\Documents\Демидов Денис ИСП33\Курсовой проект 3 курс\src\Theatre\bin\Debug\net7.0-windows\runtimes\win\lib\net7.0\System.Security.Cryptography.Pkcs.dll
+C:\Users\ISP\Documents\Демидов Денис ИСП33\Курсовой проект 3 курс\src\Theatre\bin\Debug\net7.0-windows\runtimes\win\lib\net7.0\System.Text.Encoding.CodePages.dll
+C:\Users\ISP\Documents\Демидов Денис ИСП33\Курсовой проект 3 курс\src\Theatre\bin\Debug\net7.0-windows\runtimes\browser\lib\net7.0\System.Text.Encodings.Web.dll
+C:\Users\ISP\Documents\Демидов Денис ИСП33\Курсовой проект 3 курс\src\Theatre\obj\Debug\net7.0-windows\App.baml
+C:\Users\ISP\Documents\Демидов Денис ИСП33\Курсовой проект 3 курс\src\Theatre\obj\Debug\net7.0-windows\Pages\AddSpectaclePage.baml
+C:\Users\ISP\Documents\Демидов Денис ИСП33\Курсовой проект 3 курс\src\Theatre\obj\Debug\net7.0-windows\Pages\AuthorizationPage.baml
+C:\Users\ISP\Documents\Демидов Денис ИСП33\Курсовой проект 3 курс\src\Theatre\obj\Debug\net7.0-windows\Pages\CaptchaPage.baml
+C:\Users\ISP\Documents\Демидов Денис ИСП33\Курсовой проект 3 курс\src\Theatre\obj\Debug\net7.0-windows\Pages\MainPage.baml
+C:\Users\ISP\Documents\Демидов Денис ИСП33\Курсовой проект 3 курс\src\Theatre\obj\Debug\net7.0-windows\Pages\RegistrationPage.baml
+C:\Users\ISP\Documents\Демидов Денис ИСП33\Курсовой проект 3 курс\src\Theatre\obj\Debug\net7.0-windows\Pages\UserProfilePage.baml
+C:\Users\ISP\Documents\Демидов Денис ИСП33\Курсовой проект 3 курс\Theatre\src\Theatre\bin\Debug\net7.0-windows\Theatre.exe
+C:\Users\ISP\Documents\Демидов Денис ИСП33\Курсовой проект 3 курс\Theatre\src\Theatre\bin\Debug\net7.0-windows\Theatre.deps.json
+C:\Users\ISP\Documents\Демидов Денис ИСП33\Курсовой проект 3 курс\Theatre\src\Theatre\bin\Debug\net7.0-windows\Theatre.runtimeconfig.json
+C:\Users\ISP\Documents\Демидов Денис ИСП33\Курсовой проект 3 курс\Theatre\src\Theatre\bin\Debug\net7.0-windows\Theatre.dll
+C:\Users\ISP\Documents\Демидов Денис ИСП33\Курсовой проект 3 курс\Theatre\src\Theatre\bin\Debug\net7.0-windows\Theatre.pdb
+C:\Users\ISP\Documents\Демидов Денис ИСП33\Курсовой проект 3 курс\Theatre\src\Theatre\bin\Debug\net7.0-windows\BouncyCastle.Cryptography.dll
+C:\Users\ISP\Documents\Демидов Денис ИСП33\Курсовой проект 3 курс\Theatre\src\Theatre\bin\Debug\net7.0-windows\MailKit.dll
+C:\Users\ISP\Documents\Демидов Денис ИСП33\Курсовой проект 3 курс\Theatre\src\Theatre\bin\Debug\net7.0-windows\Microsoft.AspNetCore.Authentication.dll
+C:\Users\ISP\Documents\Демидов Денис ИСП33\Курсовой проект 3 курс\Theatre\src\Theatre\bin\Debug\net7.0-windows\Microsoft.AspNetCore.Authentication.Abstractions.dll
+C:\Users\ISP\Documents\Демидов Денис ИСП33\Курсовой проект 3 курс\Theatre\src\Theatre\bin\Debug\net7.0-windows\Microsoft.AspNetCore.Authentication.Cookies.dll
+C:\Users\ISP\Documents\Демидов Денис ИСП33\Курсовой проект 3 курс\Theatre\src\Theatre\bin\Debug\net7.0-windows\Microsoft.AspNetCore.Authentication.Core.dll
+C:\Users\ISP\Documents\Демидов Денис ИСП33\Курсовой проект 3 курс\Theatre\src\Theatre\bin\Debug\net7.0-windows\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\ISP\Documents\Демидов Денис ИСП33\Курсовой проект 3 курс\Theatre\src\Theatre\bin\Debug\net7.0-windows\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\ISP\Documents\Демидов Денис ИСП33\Курсовой проект 3 курс\Theatre\src\Theatre\bin\Debug\net7.0-windows\Microsoft.AspNetCore.DataProtection.dll
+C:\Users\ISP\Documents\Демидов Денис ИСП33\Курсовой проект 3 курс\Theatre\src\Theatre\bin\Debug\net7.0-windows\Microsoft.AspNetCore.DataProtection.Abstractions.dll
+C:\Users\ISP\Documents\Демидов Денис ИСП33\Курсовой проект 3 курс\Theatre\src\Theatre\bin\Debug\net7.0-windows\Microsoft.AspNetCore.Hosting.Abstractions.dll
+C:\Users\ISP\Documents\Демидов Денис ИСП33\Курсовой проект 3 курс\Theatre\src\Theatre\bin\Debug\net7.0-windows\Microsoft.AspNetCore.Hosting.Server.Abstractions.dll
+C:\Users\ISP\Documents\Демидов Денис ИСП33\Курсовой проект 3 курс\Theatre\src\Theatre\bin\Debug\net7.0-windows\Microsoft.AspNetCore.Http.dll
+C:\Users\ISP\Documents\Демидов Денис ИСП33\Курсовой проект 3 курс\Theatre\src\Theatre\bin\Debug\net7.0-windows\Microsoft.AspNetCore.Http.Abstractions.dll
+C:\Users\ISP\Documents\Демидов Денис ИСП33\Курсовой проект 3 курс\Theatre\src\Theatre\bin\Debug\net7.0-windows\Microsoft.AspNetCore.Http.Extensions.dll
+C:\Users\ISP\Documents\Демидов Денис ИСП33\Курсовой проект 3 курс\Theatre\src\Theatre\bin\Debug\net7.0-windows\Microsoft.AspNetCore.Http.Features.dll
+C:\Users\ISP\Documents\Демидов Денис ИСП33\Курсовой проект 3 курс\Theatre\src\Theatre\bin\Debug\net7.0-windows\Microsoft.AspNetCore.Identity.dll
+C:\Users\ISP\Documents\Демидов Денис ИСП33\Курсовой проект 3 курс\Theatre\src\Theatre\bin\Debug\net7.0-windows\Microsoft.AspNetCore.WebUtilities.dll
+C:\Users\ISP\Documents\Демидов Денис ИСП33\Курсовой проект 3 курс\Theatre\src\Theatre\bin\Debug\net7.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\ISP\Documents\Демидов Денис ИСП33\Курсовой проект 3 курс\Theatre\src\Theatre\bin\Debug\net7.0-windows\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\ISP\Documents\Демидов Денис ИСП33\Курсовой проект 3 курс\Theatre\src\Theatre\bin\Debug\net7.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\ISP\Documents\Демидов Денис ИСП33\Курсовой проект 3 курс\Theatre\src\Theatre\bin\Debug\net7.0-windows\Microsoft.Extensions.Diagnostics.Abstractions.dll
+C:\Users\ISP\Documents\Демидов Денис ИСП33\Курсовой проект 3 курс\Theatre\src\Theatre\bin\Debug\net7.0-windows\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\ISP\Documents\Демидов Денис ИСП33\Курсовой проект 3 курс\Theatre\src\Theatre\bin\Debug\net7.0-windows\Microsoft.Extensions.Hosting.Abstractions.dll
+C:\Users\ISP\Documents\Демидов Денис ИСП33\Курсовой проект 3 курс\Theatre\src\Theatre\bin\Debug\net7.0-windows\Microsoft.Extensions.Identity.Core.dll
+C:\Users\ISP\Documents\Демидов Денис ИСП33\Курсовой проект 3 курс\Theatre\src\Theatre\bin\Debug\net7.0-windows\Microsoft.Extensions.Logging.dll
+C:\Users\ISP\Documents\Демидов Денис ИСП33\Курсовой проект 3 курс\Theatre\src\Theatre\bin\Debug\net7.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\ISP\Documents\Демидов Денис ИСП33\Курсовой проект 3 курс\Theatre\src\Theatre\bin\Debug\net7.0-windows\Microsoft.Extensions.ObjectPool.dll
+C:\Users\ISP\Documents\Демидов Денис ИСП33\Курсовой проект 3 курс\Theatre\src\Theatre\bin\Debug\net7.0-windows\Microsoft.Extensions.Options.dll
+C:\Users\ISP\Documents\Демидов Денис ИСП33\Курсовой проект 3 курс\Theatre\src\Theatre\bin\Debug\net7.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\ISP\Documents\Демидов Денис ИСП33\Курсовой проект 3 курс\Theatre\src\Theatre\bin\Debug\net7.0-windows\Microsoft.Extensions.WebEncoders.dll
+C:\Users\ISP\Documents\Демидов Денис ИСП33\Курсовой проект 3 курс\Theatre\src\Theatre\bin\Debug\net7.0-windows\Microsoft.Net.Http.Headers.dll
+C:\Users\ISP\Documents\Демидов Денис ИСП33\Курсовой проект 3 курс\Theatre\src\Theatre\bin\Debug\net7.0-windows\MimeKit.dll
+C:\Users\ISP\Documents\Демидов Денис ИСП33\Курсовой проект 3 курс\Theatre\src\Theatre\bin\Debug\net7.0-windows\Npgsql.dll
+C:\Users\ISP\Documents\Демидов Денис ИСП33\Курсовой проект 3 курс\Theatre\src\Theatre\bin\Debug\net7.0-windows\PdfSharp.Charting.dll
+C:\Users\ISP\Documents\Демидов Денис ИСП33\Курсовой проект 3 курс\Theatre\src\Theatre\bin\Debug\net7.0-windows\PdfSharp.Quality.dll
+C:\Users\ISP\Documents\Демидов Денис ИСП33\Курсовой проект 3 курс\Theatre\src\Theatre\bin\Debug\net7.0-windows\PdfSharp.Snippets.dll
+C:\Users\ISP\Documents\Демидов Денис ИСП33\Курсовой проект 3 курс\Theatre\src\Theatre\bin\Debug\net7.0-windows\PdfSharp.System.dll
+C:\Users\ISP\Documents\Демидов Денис ИСП33\Курсовой проект 3 курс\Theatre\src\Theatre\bin\Debug\net7.0-windows\PdfSharp.WPFonts.dll
+C:\Users\ISP\Documents\Демидов Денис ИСП33\Курсовой проект 3 курс\Theatre\src\Theatre\bin\Debug\net7.0-windows\PdfSharp.dll
+C:\Users\ISP\Documents\Демидов Денис ИСП33\Курсовой проект 3 курс\Theatre\src\Theatre\bin\Debug\net7.0-windows\System.Diagnostics.DiagnosticSource.dll
+C:\Users\ISP\Documents\Демидов Денис ИСП33\Курсовой проект 3 курс\Theatre\src\Theatre\bin\Debug\net7.0-windows\System.Formats.Asn1.dll
+C:\Users\ISP\Documents\Демидов Денис ИСП33\Курсовой проект 3 курс\Theatre\src\Theatre\bin\Debug\net7.0-windows\System.Security.Cryptography.Pkcs.dll
+C:\Users\ISP\Documents\Демидов Денис ИСП33\Курсовой проект 3 курс\Theatre\src\Theatre\bin\Debug\net7.0-windows\System.Security.Cryptography.Xml.dll
+C:\Users\ISP\Documents\Демидов Денис ИСП33\Курсовой проект 3 курс\Theatre\src\Theatre\bin\Debug\net7.0-windows\System.Text.Encoding.CodePages.dll
+C:\Users\ISP\Documents\Демидов Денис ИСП33\Курсовой проект 3 курс\Theatre\src\Theatre\bin\Debug\net7.0-windows\System.Text.Encodings.Web.dll
+C:\Users\ISP\Documents\Демидов Денис ИСП33\Курсовой проект 3 курс\Theatre\src\Theatre\bin\Debug\net7.0-windows\System.Text.Json.dll
+C:\Users\ISP\Documents\Демидов Денис ИСП33\Курсовой проект 3 курс\Theatre\src\Theatre\bin\Debug\net7.0-windows\de\PdfSharp.Charting.resources.dll
+C:\Users\ISP\Documents\Демидов Денис ИСП33\Курсовой проект 3 курс\Theatre\src\Theatre\bin\Debug\net7.0-windows\de\PdfSharp.resources.dll
+C:\Users\ISP\Documents\Демидов Денис ИСП33\Курсовой проект 3 курс\Theatre\src\Theatre\bin\Debug\net7.0-windows\runtimes\win\lib\net7.0\System.Security.Cryptography.Pkcs.dll
+C:\Users\ISP\Documents\Демидов Денис ИСП33\Курсовой проект 3 курс\Theatre\src\Theatre\bin\Debug\net7.0-windows\runtimes\win\lib\net7.0\System.Text.Encoding.CodePages.dll
+C:\Users\ISP\Documents\Демидов Денис ИСП33\Курсовой проект 3 курс\Theatre\src\Theatre\bin\Debug\net7.0-windows\runtimes\browser\lib\net7.0\System.Text.Encodings.Web.dll
+C:\Users\ISP\Documents\Демидов Денис ИСП33\Курсовой проект 3 курс\Theatre\src\Theatre\bin\Debug\net7.0-windows\Theatre.Business.dll
+C:\Users\ISP\Documents\Демидов Денис ИСП33\Курсовой проект 3 курс\Theatre\src\Theatre\bin\Debug\net7.0-windows\Theatre.Core.dll
+C:\Users\ISP\Documents\Демидов Денис ИСП33\Курсовой проект 3 курс\Theatre\src\Theatre\bin\Debug\net7.0-windows\Theatre.Data.dll
+C:\Users\ISP\Documents\Демидов Денис ИСП33\Курсовой проект 3 курс\Theatre\src\Theatre\bin\Debug\net7.0-windows\Theatre.Business.pdb
+C:\Users\ISP\Documents\Демидов Денис ИСП33\Курсовой проект 3 курс\Theatre\src\Theatre\bin\Debug\net7.0-windows\Theatre.Core.pdb
+C:\Users\ISP\Documents\Демидов Денис ИСП33\Курсовой проект 3 курс\Theatre\src\Theatre\bin\Debug\net7.0-windows\Theatre.Data.pdb
+C:\Users\ISP\Documents\Демидов Денис ИСП33\Курсовой проект 3 курс\Theatre\src\Theatre\obj\Debug\net7.0-windows\Theatre.csproj.AssemblyReference.cache
+C:\Users\ISP\Documents\Демидов Денис ИСП33\Курсовой проект 3 курс\Theatre\src\Theatre\obj\Debug\net7.0-windows\Pages\SpectaclePage.baml
+C:\Users\ISP\Documents\Демидов Денис ИСП33\Курсовой проект 3 курс\Theatre\src\Theatre\obj\Debug\net7.0-windows\MainWindow.g.cs
+C:\Users\ISP\Documents\Демидов Денис ИСП33\Курсовой проект 3 курс\Theatre\src\Theatre\obj\Debug\net7.0-windows\Pages\AddSpectaclePage.g.cs
+C:\Users\ISP\Documents\Демидов Денис ИСП33\Курсовой проект 3 курс\Theatre\src\Theatre\obj\Debug\net7.0-windows\Pages\AuthorizationPage.g.cs
+C:\Users\ISP\Documents\Демидов Денис ИСП33\Курсовой проект 3 курс\Theatre\src\Theatre\obj\Debug\net7.0-windows\Pages\CaptchaPage.g.cs
+C:\Users\ISP\Documents\Демидов Денис ИСП33\Курсовой проект 3 курс\Theatre\src\Theatre\obj\Debug\net7.0-windows\Pages\MainPage.g.cs
+C:\Users\ISP\Documents\Демидов Денис ИСП33\Курсовой проект 3 курс\Theatre\src\Theatre\obj\Debug\net7.0-windows\Pages\RegistrationPage.g.cs
+C:\Users\ISP\Documents\Демидов Денис ИСП33\Курсовой проект 3 курс\Theatre\src\Theatre\obj\Debug\net7.0-windows\Pages\SpectaclePage.g.cs
+C:\Users\ISP\Documents\Демидов Денис ИСП33\Курсовой проект 3 курс\Theatre\src\Theatre\obj\Debug\net7.0-windows\Pages\UserProfilePage.g.cs
+C:\Users\ISP\Documents\Демидов Денис ИСП33\Курсовой проект 3 курс\Theatre\src\Theatre\obj\Debug\net7.0-windows\App.g.cs
+C:\Users\ISP\Documents\Демидов Денис ИСП33\Курсовой проект 3 курс\Theatre\src\Theatre\obj\Debug\net7.0-windows\GeneratedInternalTypeHelper.g.cs
+C:\Users\ISP\Documents\Демидов Денис ИСП33\Курсовой проект 3 курс\Theatre\src\Theatre\obj\Debug\net7.0-windows\Theatre_MarkupCompile.cache
+C:\Users\ISP\Documents\Демидов Денис ИСП33\Курсовой проект 3 курс\Theatre\src\Theatre\obj\Debug\net7.0-windows\Theatre_MarkupCompile.lref
+C:\Users\ISP\Documents\Демидов Денис ИСП33\Курсовой проект 3 курс\Theatre\src\Theatre\obj\Debug\net7.0-windows\App.baml
+C:\Users\ISP\Documents\Демидов Денис ИСП33\Курсовой проект 3 курс\Theatre\src\Theatre\obj\Debug\net7.0-windows\MainWindow.baml
+C:\Users\ISP\Documents\Демидов Денис ИСП33\Курсовой проект 3 курс\Theatre\src\Theatre\obj\Debug\net7.0-windows\Pages\AddSpectaclePage.baml
+C:\Users\ISP\Documents\Демидов Денис ИСП33\Курсовой проект 3 курс\Theatre\src\Theatre\obj\Debug\net7.0-windows\Pages\AuthorizationPage.baml
+C:\Users\ISP\Documents\Демидов Денис ИСП33\Курсовой проект 3 курс\Theatre\src\Theatre\obj\Debug\net7.0-windows\Pages\CaptchaPage.baml
+C:\Users\ISP\Documents\Демидов Денис ИСП33\Курсовой проект 3 курс\Theatre\src\Theatre\obj\Debug\net7.0-windows\Pages\MainPage.baml
+C:\Users\ISP\Documents\Демидов Денис ИСП33\Курсовой проект 3 курс\Theatre\src\Theatre\obj\Debug\net7.0-windows\Pages\RegistrationPage.baml
+C:\Users\ISP\Documents\Демидов Денис ИСП33\Курсовой проект 3 курс\Theatre\src\Theatre\obj\Debug\net7.0-windows\Pages\UserProfilePage.baml
+C:\Users\ISP\Documents\Демидов Денис ИСП33\Курсовой проект 3 курс\Theatre\src\Theatre\obj\Debug\net7.0-windows\Theatre.g.resources
+C:\Users\ISP\Documents\Демидов Денис ИСП33\Курсовой проект 3 курс\Theatre\src\Theatre\obj\Debug\net7.0-windows\Theatre.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ISP\Documents\Демидов Денис ИСП33\Курсовой проект 3 курс\Theatre\src\Theatre\obj\Debug\net7.0-windows\Theatre.AssemblyInfoInputs.cache
+C:\Users\ISP\Documents\Демидов Денис ИСП33\Курсовой проект 3 курс\Theatre\src\Theatre\obj\Debug\net7.0-windows\Theatre.AssemblyInfo.cs
+C:\Users\ISP\Documents\Демидов Денис ИСП33\Курсовой проект 3 курс\Theatre\src\Theatre\obj\Debug\net7.0-windows\Theatre.csproj.CoreCompileInputs.cache
+C:\Users\ISP\Documents\Демидов Денис ИСП33\Курсовой проект 3 курс\Theatre\src\Theatre\obj\Debug\net7.0-windows\Theatre.csproj.CopyComplete
+C:\Users\ISP\Documents\Демидов Денис ИСП33\Курсовой проект 3 курс\Theatre\src\Theatre\obj\Debug\net7.0-windows\Theatre.dll
+C:\Users\ISP\Documents\Демидов Денис ИСП33\Курсовой проект 3 курс\Theatre\src\Theatre\obj\Debug\net7.0-windows\refint\Theatre.dll
+C:\Users\ISP\Documents\Демидов Денис ИСП33\Курсовой проект 3 курс\Theatre\src\Theatre\obj\Debug\net7.0-windows\Theatre.pdb
+C:\Users\ISP\Documents\Демидов Денис ИСП33\Курсовой проект 3 курс\Theatre\src\Theatre\obj\Debug\net7.0-windows\Theatre.genruntimeconfig.cache
+C:\Users\ISP\Documents\Демидов Денис ИСП33\Курсовой проект 3 курс\Theatre\src\Theatre\obj\Debug\net7.0-windows\ref\Theatre.dll
+D:\Новая папка\Theatre\src\Theatre\bin\Debug\net7.0-windows\Theatre.exe
+D:\Новая папка\Theatre\src\Theatre\bin\Debug\net7.0-windows\Theatre.deps.json
+D:\Новая папка\Theatre\src\Theatre\bin\Debug\net7.0-windows\Theatre.runtimeconfig.json
+D:\Новая папка\Theatre\src\Theatre\bin\Debug\net7.0-windows\Theatre.dll
+D:\Новая папка\Theatre\src\Theatre\bin\Debug\net7.0-windows\Theatre.pdb
+D:\Новая папка\Theatre\src\Theatre\bin\Debug\net7.0-windows\BouncyCastle.Cryptography.dll
+D:\Новая папка\Theatre\src\Theatre\bin\Debug\net7.0-windows\MailKit.dll
+D:\Новая папка\Theatre\src\Theatre\bin\Debug\net7.0-windows\Microsoft.AspNetCore.Authentication.dll
+D:\Новая папка\Theatre\src\Theatre\bin\Debug\net7.0-windows\Microsoft.AspNetCore.Authentication.Abstractions.dll
+D:\Новая папка\Theatre\src\Theatre\bin\Debug\net7.0-windows\Microsoft.AspNetCore.Authentication.Cookies.dll
+D:\Новая папка\Theatre\src\Theatre\bin\Debug\net7.0-windows\Microsoft.AspNetCore.Authentication.Core.dll
+D:\Новая папка\Theatre\src\Theatre\bin\Debug\net7.0-windows\Microsoft.AspNetCore.Cryptography.Internal.dll
+D:\Новая папка\Theatre\src\Theatre\bin\Debug\net7.0-windows\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+D:\Новая папка\Theatre\src\Theatre\bin\Debug\net7.0-windows\Microsoft.AspNetCore.DataProtection.dll
+D:\Новая папка\Theatre\src\Theatre\bin\Debug\net7.0-windows\Microsoft.AspNetCore.DataProtection.Abstractions.dll
+D:\Новая папка\Theatre\src\Theatre\bin\Debug\net7.0-windows\Microsoft.AspNetCore.Hosting.Abstractions.dll
+D:\Новая папка\Theatre\src\Theatre\bin\Debug\net7.0-windows\Microsoft.AspNetCore.Hosting.Server.Abstractions.dll
+D:\Новая папка\Theatre\src\Theatre\bin\Debug\net7.0-windows\Microsoft.AspNetCore.Http.dll
+D:\Новая папка\Theatre\src\Theatre\bin\Debug\net7.0-windows\Microsoft.AspNetCore.Http.Abstractions.dll
+D:\Новая папка\Theatre\src\Theatre\bin\Debug\net7.0-windows\Microsoft.AspNetCore.Http.Extensions.dll
+D:\Новая папка\Theatre\src\Theatre\bin\Debug\net7.0-windows\Microsoft.AspNetCore.Http.Features.dll
+D:\Новая папка\Theatre\src\Theatre\bin\Debug\net7.0-windows\Microsoft.AspNetCore.Identity.dll
+D:\Новая папка\Theatre\src\Theatre\bin\Debug\net7.0-windows\Microsoft.AspNetCore.WebUtilities.dll
+D:\Новая папка\Theatre\src\Theatre\bin\Debug\net7.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\Новая папка\Theatre\src\Theatre\bin\Debug\net7.0-windows\Microsoft.Extensions.DependencyInjection.dll
+D:\Новая папка\Theatre\src\Theatre\bin\Debug\net7.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Новая папка\Theatre\src\Theatre\bin\Debug\net7.0-windows\Microsoft.Extensions.Diagnostics.Abstractions.dll
+D:\Новая папка\Theatre\src\Theatre\bin\Debug\net7.0-windows\Microsoft.Extensions.FileProviders.Abstractions.dll
+D:\Новая папка\Theatre\src\Theatre\bin\Debug\net7.0-windows\Microsoft.Extensions.Hosting.Abstractions.dll
+D:\Новая папка\Theatre\src\Theatre\bin\Debug\net7.0-windows\Microsoft.Extensions.Identity.Core.dll
+D:\Новая папка\Theatre\src\Theatre\bin\Debug\net7.0-windows\Microsoft.Extensions.Logging.dll
+D:\Новая папка\Theatre\src\Theatre\bin\Debug\net7.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Новая папка\Theatre\src\Theatre\bin\Debug\net7.0-windows\Microsoft.Extensions.ObjectPool.dll
+D:\Новая папка\Theatre\src\Theatre\bin\Debug\net7.0-windows\Microsoft.Extensions.Options.dll
+D:\Новая папка\Theatre\src\Theatre\bin\Debug\net7.0-windows\Microsoft.Extensions.Primitives.dll
+D:\Новая папка\Theatre\src\Theatre\bin\Debug\net7.0-windows\Microsoft.Extensions.WebEncoders.dll
+D:\Новая папка\Theatre\src\Theatre\bin\Debug\net7.0-windows\Microsoft.Net.Http.Headers.dll
+D:\Новая папка\Theatre\src\Theatre\bin\Debug\net7.0-windows\MimeKit.dll
+D:\Новая папка\Theatre\src\Theatre\bin\Debug\net7.0-windows\Npgsql.dll
+D:\Новая папка\Theatre\src\Theatre\bin\Debug\net7.0-windows\PdfSharp.Charting.dll
+D:\Новая папка\Theatre\src\Theatre\bin\Debug\net7.0-windows\PdfSharp.Quality.dll
+D:\Новая папка\Theatre\src\Theatre\bin\Debug\net7.0-windows\PdfSharp.Snippets.dll
+D:\Новая папка\Theatre\src\Theatre\bin\Debug\net7.0-windows\PdfSharp.System.dll
+D:\Новая папка\Theatre\src\Theatre\bin\Debug\net7.0-windows\PdfSharp.WPFonts.dll
+D:\Новая папка\Theatre\src\Theatre\bin\Debug\net7.0-windows\PdfSharp.dll
+D:\Новая папка\Theatre\src\Theatre\bin\Debug\net7.0-windows\SkiaSharp.dll
+D:\Новая папка\Theatre\src\Theatre\bin\Debug\net7.0-windows\System.Diagnostics.DiagnosticSource.dll
+D:\Новая папка\Theatre\src\Theatre\bin\Debug\net7.0-windows\System.Drawing.Common.dll
+D:\Новая папка\Theatre\src\Theatre\bin\Debug\net7.0-windows\System.Formats.Asn1.dll
+D:\Новая папка\Theatre\src\Theatre\bin\Debug\net7.0-windows\System.Security.Cryptography.Pkcs.dll
+D:\Новая папка\Theatre\src\Theatre\bin\Debug\net7.0-windows\System.Security.Cryptography.Xml.dll
+D:\Новая папка\Theatre\src\Theatre\bin\Debug\net7.0-windows\System.Text.Encoding.CodePages.dll
+D:\Новая папка\Theatre\src\Theatre\bin\Debug\net7.0-windows\System.Text.Encodings.Web.dll
+D:\Новая папка\Theatre\src\Theatre\bin\Debug\net7.0-windows\System.Text.Json.dll
+D:\Новая папка\Theatre\src\Theatre\bin\Debug\net7.0-windows\de\PdfSharp.Charting.resources.dll
+D:\Новая папка\Theatre\src\Theatre\bin\Debug\net7.0-windows\de\PdfSharp.resources.dll
+D:\Новая папка\Theatre\src\Theatre\bin\Debug\net7.0-windows\runtimes\osx\native\libSkiaSharp.dylib
+D:\Новая папка\Theatre\src\Theatre\bin\Debug\net7.0-windows\runtimes\win-arm64\native\libSkiaSharp.dll
+D:\Новая папка\Theatre\src\Theatre\bin\Debug\net7.0-windows\runtimes\win-x64\native\libSkiaSharp.dll
+D:\Новая папка\Theatre\src\Theatre\bin\Debug\net7.0-windows\runtimes\win-x86\native\libSkiaSharp.dll
+D:\Новая папка\Theatre\src\Theatre\bin\Debug\net7.0-windows\runtimes\win\lib\net7.0\System.Security.Cryptography.Pkcs.dll
+D:\Новая папка\Theatre\src\Theatre\bin\Debug\net7.0-windows\runtimes\win\lib\net7.0\System.Text.Encoding.CodePages.dll
+D:\Новая папка\Theatre\src\Theatre\bin\Debug\net7.0-windows\runtimes\browser\lib\net7.0\System.Text.Encodings.Web.dll
+D:\Новая папка\Theatre\src\Theatre\bin\Debug\net7.0-windows\Theatre.Business.dll
+D:\Новая папка\Theatre\src\Theatre\bin\Debug\net7.0-windows\Theatre.Core.dll
+D:\Новая папка\Theatre\src\Theatre\bin\Debug\net7.0-windows\Theatre.Data.dll
+D:\Новая папка\Theatre\src\Theatre\bin\Debug\net7.0-windows\Theatre.Business.pdb
+D:\Новая папка\Theatre\src\Theatre\bin\Debug\net7.0-windows\Theatre.Core.pdb
+D:\Новая папка\Theatre\src\Theatre\bin\Debug\net7.0-windows\Theatre.Data.pdb
+D:\Новая папка\Theatre\src\Theatre\obj\Debug\net7.0-windows\Theatre.csproj.AssemblyReference.cache
+D:\Новая папка\Theatre\src\Theatre\obj\Debug\net7.0-windows\Pages\CaptchaPage.baml
+D:\Новая папка\Theatre\src\Theatre\obj\Debug\net7.0-windows\Pages\SpectaclePage.baml
+D:\Новая папка\Theatre\src\Theatre\obj\Debug\net7.0-windows\MainWindow.g.cs
+D:\Новая папка\Theatre\src\Theatre\obj\Debug\net7.0-windows\Pages\AddSpectaclePage.g.cs
+D:\Новая папка\Theatre\src\Theatre\obj\Debug\net7.0-windows\Pages\AuthorizationPage.g.cs
+D:\Новая папка\Theatre\src\Theatre\obj\Debug\net7.0-windows\Pages\CaptchaPage.g.cs
+D:\Новая папка\Theatre\src\Theatre\obj\Debug\net7.0-windows\Pages\EditSpectaclePage.g.cs
+D:\Новая папка\Theatre\src\Theatre\obj\Debug\net7.0-windows\Pages\MainPage.g.cs
+D:\Новая папка\Theatre\src\Theatre\obj\Debug\net7.0-windows\Pages\RegistrationPage.g.cs
+D:\Новая папка\Theatre\src\Theatre\obj\Debug\net7.0-windows\Pages\SpectaclePage.g.cs
+D:\Новая папка\Theatre\src\Theatre\obj\Debug\net7.0-windows\Pages\UserProfilePage.g.cs
+D:\Новая папка\Theatre\src\Theatre\obj\Debug\net7.0-windows\App.g.cs
+D:\Новая папка\Theatre\src\Theatre\obj\Debug\net7.0-windows\Theatre_MarkupCompile.cache
+D:\Новая папка\Theatre\src\Theatre\obj\Debug\net7.0-windows\Theatre_MarkupCompile.lref
+D:\Новая папка\Theatre\src\Theatre\obj\Debug\net7.0-windows\App.baml
+D:\Новая папка\Theatre\src\Theatre\obj\Debug\net7.0-windows\MainWindow.baml
+D:\Новая папка\Theatre\src\Theatre\obj\Debug\net7.0-windows\Pages\AddSpectaclePage.baml
+D:\Новая папка\Theatre\src\Theatre\obj\Debug\net7.0-windows\Pages\AuthorizationPage.baml
+D:\Новая папка\Theatre\src\Theatre\obj\Debug\net7.0-windows\Pages\EditSpectaclePage.baml
+D:\Новая папка\Theatre\src\Theatre\obj\Debug\net7.0-windows\Pages\MainPage.baml
+D:\Новая папка\Theatre\src\Theatre\obj\Debug\net7.0-windows\Pages\RegistrationPage.baml
+D:\Новая папка\Theatre\src\Theatre\obj\Debug\net7.0-windows\Pages\UserProfilePage.baml
+D:\Новая папка\Theatre\src\Theatre\obj\Debug\net7.0-windows\Theatre.g.resources
+D:\Новая папка\Theatre\src\Theatre\obj\Debug\net7.0-windows\Theatre.GeneratedMSBuildEditorConfig.editorconfig
+D:\Новая папка\Theatre\src\Theatre\obj\Debug\net7.0-windows\Theatre.AssemblyInfoInputs.cache
+D:\Новая папка\Theatre\src\Theatre\obj\Debug\net7.0-windows\Theatre.AssemblyInfo.cs
+D:\Новая папка\Theatre\src\Theatre\obj\Debug\net7.0-windows\Theatre.csproj.CoreCompileInputs.cache
+D:\Новая папка\Theatre\src\Theatre\obj\Debug\net7.0-windows\Theatre.csproj.CopyComplete
+D:\Новая папка\Theatre\src\Theatre\obj\Debug\net7.0-windows\Theatre.dll
+D:\Новая папка\Theatre\src\Theatre\obj\Debug\net7.0-windows\refint\Theatre.dll
+D:\Новая папка\Theatre\src\Theatre\obj\Debug\net7.0-windows\Theatre.pdb
+D:\Новая папка\Theatre\src\Theatre\obj\Debug\net7.0-windows\Theatre.genruntimeconfig.cache
+D:\Новая папка\Theatre\src\Theatre\obj\Debug\net7.0-windows\ref\Theatre.dll
+D:\Новая папка\Theatre\src\Theatre\bin\Debug\net7.0-windows\en\Theatre.resources.dll
+D:\Новая папка\Theatre\src\Theatre\obj\Debug\net7.0-windows\Theatre.Resources.Strings.resources
+D:\Новая папка\Theatre\src\Theatre\obj\Debug\net7.0-windows\Theatre.Resources.Strings.en.resources
+D:\Новая папка\Theatre\src\Theatre\obj\Debug\net7.0-windows\Theatre.csproj.GenerateResource.cache
+D:\Новая папка\Theatre\src\Theatre\obj\Debug\net7.0-windows\en\Theatre.resources.dll
+C:\Users\ISP\Documents\Демидов Денис ИСП33\Theatre\src\Theatre\bin\Debug\net7.0-windows\Theatre.exe
+C:\Users\ISP\Documents\Демидов Денис ИСП33\Theatre\src\Theatre\bin\Debug\net7.0-windows\Theatre.dll.config
+C:\Users\ISP\Documents\Демидов Денис ИСП33\Theatre\src\Theatre\bin\Debug\net7.0-windows\Theatre.deps.json
+C:\Users\ISP\Documents\Демидов Денис ИСП33\Theatre\src\Theatre\bin\Debug\net7.0-windows\Theatre.runtimeconfig.json
+C:\Users\ISP\Documents\Демидов Денис ИСП33\Theatre\src\Theatre\bin\Debug\net7.0-windows\Theatre.dll
+C:\Users\ISP\Documents\Демидов Денис ИСП33\Theatre\src\Theatre\bin\Debug\net7.0-windows\Theatre.pdb
+C:\Users\ISP\Documents\Демидов Денис ИСП33\Theatre\src\Theatre\bin\Debug\net7.0-windows\BouncyCastle.Cryptography.dll
+C:\Users\ISP\Documents\Демидов Денис ИСП33\Theatre\src\Theatre\bin\Debug\net7.0-windows\MailKit.dll
+C:\Users\ISP\Documents\Демидов Денис ИСП33\Theatre\src\Theatre\bin\Debug\net7.0-windows\Microsoft.AspNetCore.Authentication.dll
+C:\Users\ISP\Documents\Демидов Денис ИСП33\Theatre\src\Theatre\bin\Debug\net7.0-windows\Microsoft.AspNetCore.Authentication.Abstractions.dll
+C:\Users\ISP\Documents\Демидов Денис ИСП33\Theatre\src\Theatre\bin\Debug\net7.0-windows\Microsoft.AspNetCore.Authentication.Cookies.dll
+C:\Users\ISP\Documents\Демидов Денис ИСП33\Theatre\src\Theatre\bin\Debug\net7.0-windows\Microsoft.AspNetCore.Authentication.Core.dll
+C:\Users\ISP\Documents\Демидов Денис ИСП33\Theatre\src\Theatre\bin\Debug\net7.0-windows\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\ISP\Documents\Демидов Денис ИСП33\Theatre\src\Theatre\bin\Debug\net7.0-windows\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\ISP\Documents\Демидов Денис ИСП33\Theatre\src\Theatre\bin\Debug\net7.0-windows\Microsoft.AspNetCore.DataProtection.dll
+C:\Users\ISP\Documents\Демидов Денис ИСП33\Theatre\src\Theatre\bin\Debug\net7.0-windows\Microsoft.AspNetCore.DataProtection.Abstractions.dll
+C:\Users\ISP\Documents\Демидов Денис ИСП33\Theatre\src\Theatre\bin\Debug\net7.0-windows\Microsoft.AspNetCore.Hosting.Abstractions.dll
+C:\Users\ISP\Documents\Демидов Денис ИСП33\Theatre\src\Theatre\bin\Debug\net7.0-windows\Microsoft.AspNetCore.Hosting.Server.Abstractions.dll
+C:\Users\ISP\Documents\Демидов Денис ИСП33\Theatre\src\Theatre\bin\Debug\net7.0-windows\Microsoft.AspNetCore.Http.dll
+C:\Users\ISP\Documents\Демидов Денис ИСП33\Theatre\src\Theatre\bin\Debug\net7.0-windows\Microsoft.AspNetCore.Http.Abstractions.dll
+C:\Users\ISP\Documents\Демидов Денис ИСП33\Theatre\src\Theatre\bin\Debug\net7.0-windows\Microsoft.AspNetCore.Http.Extensions.dll
+C:\Users\ISP\Documents\Демидов Денис ИСП33\Theatre\src\Theatre\bin\Debug\net7.0-windows\Microsoft.AspNetCore.Http.Features.dll
+C:\Users\ISP\Documents\Демидов Денис ИСП33\Theatre\src\Theatre\bin\Debug\net7.0-windows\Microsoft.AspNetCore.Identity.dll
+C:\Users\ISP\Documents\Демидов Денис ИСП33\Theatre\src\Theatre\bin\Debug\net7.0-windows\Microsoft.AspNetCore.WebUtilities.dll
+C:\Users\ISP\Documents\Демидов Денис ИСП33\Theatre\src\Theatre\bin\Debug\net7.0-windows\Microsoft.Azure.Amqp.dll
+C:\Users\ISP\Documents\Демидов Денис ИСП33\Theatre\src\Theatre\bin\Debug\net7.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\ISP\Documents\Демидов Денис ИСП33\Theatre\src\Theatre\bin\Debug\net7.0-windows\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\ISP\Documents\Демидов Денис ИСП33\Theatre\src\Theatre\bin\Debug\net7.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\ISP\Documents\Демидов Денис ИСП33\Theatre\src\Theatre\bin\Debug\net7.0-windows\Microsoft.Extensions.Diagnostics.Abstractions.dll
+C:\Users\ISP\Documents\Демидов Денис ИСП33\Theatre\src\Theatre\bin\Debug\net7.0-windows\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\ISP\Documents\Демидов Денис ИСП33\Theatre\src\Theatre\bin\Debug\net7.0-windows\Microsoft.Extensions.Hosting.Abstractions.dll
+C:\Users\ISP\Documents\Демидов Денис ИСП33\Theatre\src\Theatre\bin\Debug\net7.0-windows\Microsoft.Extensions.Identity.Core.dll
+C:\Users\ISP\Documents\Демидов Денис ИСП33\Theatre\src\Theatre\bin\Debug\net7.0-windows\Microsoft.Extensions.Logging.dll
+C:\Users\ISP\Documents\Демидов Денис ИСП33\Theatre\src\Theatre\bin\Debug\net7.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\ISP\Documents\Демидов Денис ИСП33\Theatre\src\Theatre\bin\Debug\net7.0-windows\Microsoft.Extensions.ObjectPool.dll
+C:\Users\ISP\Documents\Демидов Денис ИСП33\Theatre\src\Theatre\bin\Debug\net7.0-windows\Microsoft.Extensions.Options.dll
+C:\Users\ISP\Documents\Демидов Денис ИСП33\Theatre\src\Theatre\bin\Debug\net7.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\ISP\Documents\Демидов Денис ИСП33\Theatre\src\Theatre\bin\Debug\net7.0-windows\Microsoft.Extensions.WebEncoders.dll
+C:\Users\ISP\Documents\Демидов Денис ИСП33\Theatre\src\Theatre\bin\Debug\net7.0-windows\Microsoft.Net.Http.Headers.dll
+C:\Users\ISP\Documents\Демидов Денис ИСП33\Theatre\src\Theatre\bin\Debug\net7.0-windows\MimeKit.dll
+C:\Users\ISP\Documents\Демидов Денис ИСП33\Theatre\src\Theatre\bin\Debug\net7.0-windows\Npgsql.dll
+C:\Users\ISP\Documents\Демидов Денис ИСП33\Theatre\src\Theatre\bin\Debug\net7.0-windows\PdfSharp.Charting.dll
+C:\Users\ISP\Documents\Демидов Денис ИСП33\Theatre\src\Theatre\bin\Debug\net7.0-windows\PdfSharp.Quality.dll
+C:\Users\ISP\Documents\Демидов Денис ИСП33\Theatre\src\Theatre\bin\Debug\net7.0-windows\PdfSharp.Snippets.dll
+C:\Users\ISP\Documents\Демидов Денис ИСП33\Theatre\src\Theatre\bin\Debug\net7.0-windows\PdfSharp.System.dll
+C:\Users\ISP\Documents\Демидов Денис ИСП33\Theatre\src\Theatre\bin\Debug\net7.0-windows\PdfSharp.WPFonts.dll
+C:\Users\ISP\Documents\Демидов Денис ИСП33\Theatre\src\Theatre\bin\Debug\net7.0-windows\PdfSharp.dll
+C:\Users\ISP\Documents\Демидов Денис ИСП33\Theatre\src\Theatre\bin\Debug\net7.0-windows\SkiaSharp.dll
+C:\Users\ISP\Documents\Демидов Денис ИСП33\Theatre\src\Theatre\bin\Debug\net7.0-windows\System.Diagnostics.DiagnosticSource.dll
+C:\Users\ISP\Documents\Демидов Денис ИСП33\Theatre\src\Theatre\bin\Debug\net7.0-windows\System.Drawing.Common.dll
+C:\Users\ISP\Documents\Демидов Денис ИСП33\Theatre\src\Theatre\bin\Debug\net7.0-windows\System.Formats.Asn1.dll
+C:\Users\ISP\Documents\Демидов Денис ИСП33\Theatre\src\Theatre\bin\Debug\net7.0-windows\System.Security.Cryptography.Pkcs.dll
+C:\Users\ISP\Documents\Демидов Денис ИСП33\Theatre\src\Theatre\bin\Debug\net7.0-windows\System.Security.Cryptography.Xml.dll
+C:\Users\ISP\Documents\Демидов Денис ИСП33\Theatre\src\Theatre\bin\Debug\net7.0-windows\System.Text.Encoding.CodePages.dll
+C:\Users\ISP\Documents\Демидов Денис ИСП33\Theatre\src\Theatre\bin\Debug\net7.0-windows\System.Text.Encodings.Web.dll
+C:\Users\ISP\Documents\Демидов Денис ИСП33\Theatre\src\Theatre\bin\Debug\net7.0-windows\System.Text.Json.dll
+C:\Users\ISP\Documents\Демидов Денис ИСП33\Theatre\src\Theatre\bin\Debug\net7.0-windows\de\PdfSharp.Charting.resources.dll
+C:\Users\ISP\Documents\Демидов Денис ИСП33\Theatre\src\Theatre\bin\Debug\net7.0-windows\de\PdfSharp.resources.dll
+C:\Users\ISP\Documents\Демидов Денис ИСП33\Theatre\src\Theatre\bin\Debug\net7.0-windows\runtimes\osx\native\libSkiaSharp.dylib
+C:\Users\ISP\Documents\Демидов Денис ИСП33\Theatre\src\Theatre\bin\Debug\net7.0-windows\runtimes\win-arm64\native\libSkiaSharp.dll
+C:\Users\ISP\Documents\Демидов Денис ИСП33\Theatre\src\Theatre\bin\Debug\net7.0-windows\runtimes\win-x64\native\libSkiaSharp.dll
+C:\Users\ISP\Documents\Демидов Денис ИСП33\Theatre\src\Theatre\bin\Debug\net7.0-windows\runtimes\win-x86\native\libSkiaSharp.dll
+C:\Users\ISP\Documents\Демидов Денис ИСП33\Theatre\src\Theatre\bin\Debug\net7.0-windows\runtimes\win\lib\net7.0\System.Security.Cryptography.Pkcs.dll
+C:\Users\ISP\Documents\Демидов Денис ИСП33\Theatre\src\Theatre\bin\Debug\net7.0-windows\runtimes\win\lib\net7.0\System.Text.Encoding.CodePages.dll
+C:\Users\ISP\Documents\Демидов Денис ИСП33\Theatre\src\Theatre\bin\Debug\net7.0-windows\runtimes\browser\lib\net7.0\System.Text.Encodings.Web.dll
+C:\Users\ISP\Documents\Демидов Денис ИСП33\Theatre\src\Theatre\bin\Debug\net7.0-windows\Theatre.Business.dll
+C:\Users\ISP\Documents\Демидов Денис ИСП33\Theatre\src\Theatre\bin\Debug\net7.0-windows\Theatre.Core.dll
+C:\Users\ISP\Documents\Демидов Денис ИСП33\Theatre\src\Theatre\bin\Debug\net7.0-windows\Theatre.Data.dll
+C:\Users\ISP\Documents\Демидов Денис ИСП33\Theatre\src\Theatre\bin\Debug\net7.0-windows\Theatre.Business.pdb
+C:\Users\ISP\Documents\Демидов Денис ИСП33\Theatre\src\Theatre\bin\Debug\net7.0-windows\Theatre.Core.pdb
+C:\Users\ISP\Documents\Демидов Денис ИСП33\Theatre\src\Theatre\bin\Debug\net7.0-windows\Theatre.Data.pdb
+C:\Users\ISP\Documents\Демидов Денис ИСП33\Theatre\src\Theatre\obj\Debug\net7.0-windows\Theatre.csproj.AssemblyReference.cache
+C:\Users\ISP\Documents\Демидов Денис ИСП33\Theatre\src\Theatre\obj\Debug\net7.0-windows\Pages\CaptchaPage.baml
+C:\Users\ISP\Documents\Демидов Денис ИСП33\Theatre\src\Theatre\obj\Debug\net7.0-windows\Pages\SpectaclePage.baml
+C:\Users\ISP\Documents\Демидов Денис ИСП33\Theatre\src\Theatre\obj\Debug\net7.0-windows\MainWindow.g.cs
+C:\Users\ISP\Documents\Демидов Денис ИСП33\Theatre\src\Theatre\obj\Debug\net7.0-windows\Pages\AddSpectaclePage.g.cs
+C:\Users\ISP\Documents\Демидов Денис ИСП33\Theatre\src\Theatre\obj\Debug\net7.0-windows\Pages\AuthorizationPage.g.cs
+C:\Users\ISP\Documents\Демидов Денис ИСП33\Theatre\src\Theatre\obj\Debug\net7.0-windows\Pages\CaptchaPage.g.cs
+C:\Users\ISP\Documents\Демидов Денис ИСП33\Theatre\src\Theatre\obj\Debug\net7.0-windows\Pages\EditSpectaclePage.g.cs
+C:\Users\ISP\Documents\Демидов Денис ИСП33\Theatre\src\Theatre\obj\Debug\net7.0-windows\Pages\MainPage.g.cs
+C:\Users\ISP\Documents\Демидов Денис ИСП33\Theatre\src\Theatre\obj\Debug\net7.0-windows\Pages\RegistrationPage.g.cs
+C:\Users\ISP\Documents\Демидов Денис ИСП33\Theatre\src\Theatre\obj\Debug\net7.0-windows\Pages\SpectaclePage.g.cs
+C:\Users\ISP\Documents\Демидов Денис ИСП33\Theatre\src\Theatre\obj\Debug\net7.0-windows\Pages\UserProfilePage.g.cs
+C:\Users\ISP\Documents\Демидов Денис ИСП33\Theatre\src\Theatre\obj\Debug\net7.0-windows\App.g.cs
+C:\Users\ISP\Documents\Демидов Денис ИСП33\Theatre\src\Theatre\obj\Debug\net7.0-windows\GeneratedInternalTypeHelper.g.cs
+C:\Users\ISP\Documents\Демидов Денис ИСП33\Theatre\src\Theatre\obj\Debug\net7.0-windows\Theatre_MarkupCompile.cache
+C:\Users\ISP\Documents\Демидов Денис ИСП33\Theatre\src\Theatre\obj\Debug\net7.0-windows\Theatre_MarkupCompile.lref
+C:\Users\ISP\Documents\Демидов Денис ИСП33\Theatre\src\Theatre\obj\Debug\net7.0-windows\App.baml
+C:\Users\ISP\Documents\Демидов Денис ИСП33\Theatre\src\Theatre\obj\Debug\net7.0-windows\MainWindow.baml
+C:\Users\ISP\Documents\Демидов Денис ИСП33\Theatre\src\Theatre\obj\Debug\net7.0-windows\Pages\AddSpectaclePage.baml
+C:\Users\ISP\Documents\Демидов Денис ИСП33\Theatre\src\Theatre\obj\Debug\net7.0-windows\Pages\AuthorizationPage.baml
+C:\Users\ISP\Documents\Демидов Денис ИСП33\Theatre\src\Theatre\obj\Debug\net7.0-windows\Pages\EditSpectaclePage.baml
+C:\Users\ISP\Documents\Демидов Денис ИСП33\Theatre\src\Theatre\obj\Debug\net7.0-windows\Pages\MainPage.baml
+C:\Users\ISP\Documents\Демидов Денис ИСП33\Theatre\src\Theatre\obj\Debug\net7.0-windows\Pages\RegistrationPage.baml
+C:\Users\ISP\Documents\Демидов Денис ИСП33\Theatre\src\Theatre\obj\Debug\net7.0-windows\Pages\UserProfilePage.baml
+C:\Users\ISP\Documents\Демидов Денис ИСП33\Theatre\src\Theatre\obj\Debug\net7.0-windows\Theatre.g.resources
+C:\Users\ISP\Documents\Демидов Денис ИСП33\Theatre\src\Theatre\obj\Debug\net7.0-windows\Theatre.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ISP\Documents\Демидов Денис ИСП33\Theatre\src\Theatre\obj\Debug\net7.0-windows\Theatre.AssemblyInfoInputs.cache
+C:\Users\ISP\Documents\Демидов Денис ИСП33\Theatre\src\Theatre\obj\Debug\net7.0-windows\Theatre.AssemblyInfo.cs
+C:\Users\ISP\Documents\Демидов Денис ИСП33\Theatre\src\Theatre\obj\Debug\net7.0-windows\Theatre.csproj.CoreCompileInputs.cache
+C:\Users\ISP\Documents\Демидов Денис ИСП33\Theatre\src\Theatre\obj\Debug\net7.0-windows\Theatre.csproj.CopyComplete
+C:\Users\ISP\Documents\Демидов Денис ИСП33\Theatre\src\Theatre\obj\Debug\net7.0-windows\Theatre.dll
+C:\Users\ISP\Documents\Демидов Денис ИСП33\Theatre\src\Theatre\obj\Debug\net7.0-windows\refint\Theatre.dll
+C:\Users\ISP\Documents\Демидов Денис ИСП33\Theatre\src\Theatre\obj\Debug\net7.0-windows\Theatre.pdb
+C:\Users\ISP\Documents\Демидов Денис ИСП33\Theatre\src\Theatre\obj\Debug\net7.0-windows\Theatre.genruntimeconfig.cache
+C:\Users\ISP\Documents\Демидов Денис ИСП33\Theatre\src\Theatre\obj\Debug\net7.0-windows\ref\Theatre.dll
+C:\Users\ISP\Documents\Демидов Денис ИСП33\Theatre\src\Theatre\bin\Debug\net7.0-windows\ControlzEx.dll
+C:\Users\ISP\Documents\Демидов Денис ИСП33\Theatre\src\Theatre\bin\Debug\net7.0-windows\Dapper.dll
+C:\Users\ISP\Documents\Демидов Денис ИСП33\Theatre\src\Theatre\bin\Debug\net7.0-windows\MahApps.Metro.dll
+C:\Users\ISP\Documents\Демидов Денис ИСП33\Theatre\src\Theatre\bin\Debug\net7.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\ISP\Documents\Демидов Денис ИСП33\Theatre\src\Theatre\bin\Debug\net7.0-windows\Microsoft.Xaml.Behaviors.dll
+C:\Users\ISP\Documents\Демидов Денис ИСП33\Theatre\src\Theatre\bin\Debug\net7.0-windows\de\MahApps.Metro.resources.dll
+C:\Users\ISP\Documents\Демидов Денис ИСП33\Theatre\src\Theatre\obj\Debug\net7.0-windows\Windows\InpuntBalanceDialog.g.cs
+C:\Users\ISP\Documents\Демидов Денис ИСП33\Theatre\src\Theatre\obj\Debug\net7.0-windows\Windows\InpuntBalanceDialog.baml
+C:\Users\Admin\Documents\Theatre\src\Theatre\bin\Debug\net7.0-windows\Theatre.exe
+C:\Users\Admin\Documents\Theatre\src\Theatre\bin\Debug\net7.0-windows\Theatre.dll.config
+C:\Users\Admin\Documents\Theatre\src\Theatre\bin\Debug\net7.0-windows\Theatre.deps.json
+C:\Users\Admin\Documents\Theatre\src\Theatre\bin\Debug\net7.0-windows\Theatre.runtimeconfig.json
+C:\Users\Admin\Documents\Theatre\src\Theatre\bin\Debug\net7.0-windows\Theatre.dll
+C:\Users\Admin\Documents\Theatre\src\Theatre\bin\Debug\net7.0-windows\Theatre.pdb
+C:\Users\Admin\Documents\Theatre\src\Theatre\bin\Debug\net7.0-windows\BouncyCastle.Cryptography.dll
+C:\Users\Admin\Documents\Theatre\src\Theatre\bin\Debug\net7.0-windows\ControlzEx.dll
+C:\Users\Admin\Documents\Theatre\src\Theatre\bin\Debug\net7.0-windows\Dapper.dll
+C:\Users\Admin\Documents\Theatre\src\Theatre\bin\Debug\net7.0-windows\MahApps.Metro.dll
+C:\Users\Admin\Documents\Theatre\src\Theatre\bin\Debug\net7.0-windows\MailKit.dll
+C:\Users\Admin\Documents\Theatre\src\Theatre\bin\Debug\net7.0-windows\Microsoft.AspNetCore.Authentication.dll
+C:\Users\Admin\Documents\Theatre\src\Theatre\bin\Debug\net7.0-windows\Microsoft.AspNetCore.Authentication.Abstractions.dll
+C:\Users\Admin\Documents\Theatre\src\Theatre\bin\Debug\net7.0-windows\Microsoft.AspNetCore.Authentication.Cookies.dll
+C:\Users\Admin\Documents\Theatre\src\Theatre\bin\Debug\net7.0-windows\Microsoft.AspNetCore.Authentication.Core.dll
+C:\Users\Admin\Documents\Theatre\src\Theatre\bin\Debug\net7.0-windows\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\Admin\Documents\Theatre\src\Theatre\bin\Debug\net7.0-windows\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\Admin\Documents\Theatre\src\Theatre\bin\Debug\net7.0-windows\Microsoft.AspNetCore.DataProtection.dll
+C:\Users\Admin\Documents\Theatre\src\Theatre\bin\Debug\net7.0-windows\Microsoft.AspNetCore.DataProtection.Abstractions.dll
+C:\Users\Admin\Documents\Theatre\src\Theatre\bin\Debug\net7.0-windows\Microsoft.AspNetCore.Hosting.Abstractions.dll
+C:\Users\Admin\Documents\Theatre\src\Theatre\bin\Debug\net7.0-windows\Microsoft.AspNetCore.Hosting.Server.Abstractions.dll
+C:\Users\Admin\Documents\Theatre\src\Theatre\bin\Debug\net7.0-windows\Microsoft.AspNetCore.Http.dll
+C:\Users\Admin\Documents\Theatre\src\Theatre\bin\Debug\net7.0-windows\Microsoft.AspNetCore.Http.Abstractions.dll
+C:\Users\Admin\Documents\Theatre\src\Theatre\bin\Debug\net7.0-windows\Microsoft.AspNetCore.Http.Extensions.dll
+C:\Users\Admin\Documents\Theatre\src\Theatre\bin\Debug\net7.0-windows\Microsoft.AspNetCore.Http.Features.dll
+C:\Users\Admin\Documents\Theatre\src\Theatre\bin\Debug\net7.0-windows\Microsoft.AspNetCore.Identity.dll
+C:\Users\Admin\Documents\Theatre\src\Theatre\bin\Debug\net7.0-windows\Microsoft.AspNetCore.WebUtilities.dll
+C:\Users\Admin\Documents\Theatre\src\Theatre\bin\Debug\net7.0-windows\Microsoft.Azure.Amqp.dll
+C:\Users\Admin\Documents\Theatre\src\Theatre\bin\Debug\net7.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Admin\Documents\Theatre\src\Theatre\bin\Debug\net7.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Admin\Documents\Theatre\src\Theatre\bin\Debug\net7.0-windows\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Admin\Documents\Theatre\src\Theatre\bin\Debug\net7.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Admin\Documents\Theatre\src\Theatre\bin\Debug\net7.0-windows\Microsoft.Extensions.Diagnostics.Abstractions.dll
+C:\Users\Admin\Documents\Theatre\src\Theatre\bin\Debug\net7.0-windows\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\Admin\Documents\Theatre\src\Theatre\bin\Debug\net7.0-windows\Microsoft.Extensions.Hosting.Abstractions.dll
+C:\Users\Admin\Documents\Theatre\src\Theatre\bin\Debug\net7.0-windows\Microsoft.Extensions.Identity.Core.dll
+C:\Users\Admin\Documents\Theatre\src\Theatre\bin\Debug\net7.0-windows\Microsoft.Extensions.Logging.dll
+C:\Users\Admin\Documents\Theatre\src\Theatre\bin\Debug\net7.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Admin\Documents\Theatre\src\Theatre\bin\Debug\net7.0-windows\Microsoft.Extensions.ObjectPool.dll
+C:\Users\Admin\Documents\Theatre\src\Theatre\bin\Debug\net7.0-windows\Microsoft.Extensions.Options.dll
+C:\Users\Admin\Documents\Theatre\src\Theatre\bin\Debug\net7.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\Admin\Documents\Theatre\src\Theatre\bin\Debug\net7.0-windows\Microsoft.Extensions.WebEncoders.dll
+C:\Users\Admin\Documents\Theatre\src\Theatre\bin\Debug\net7.0-windows\Microsoft.Net.Http.Headers.dll
+C:\Users\Admin\Documents\Theatre\src\Theatre\bin\Debug\net7.0-windows\Microsoft.Xaml.Behaviors.dll
+C:\Users\Admin\Documents\Theatre\src\Theatre\bin\Debug\net7.0-windows\MimeKit.dll
+C:\Users\Admin\Documents\Theatre\src\Theatre\bin\Debug\net7.0-windows\Npgsql.dll
+C:\Users\Admin\Documents\Theatre\src\Theatre\bin\Debug\net7.0-windows\PdfSharp.Charting.dll
+C:\Users\Admin\Documents\Theatre\src\Theatre\bin\Debug\net7.0-windows\PdfSharp.Quality.dll
+C:\Users\Admin\Documents\Theatre\src\Theatre\bin\Debug\net7.0-windows\PdfSharp.Snippets.dll
+C:\Users\Admin\Documents\Theatre\src\Theatre\bin\Debug\net7.0-windows\PdfSharp.System.dll
+C:\Users\Admin\Documents\Theatre\src\Theatre\bin\Debug\net7.0-windows\PdfSharp.WPFonts.dll
+C:\Users\Admin\Documents\Theatre\src\Theatre\bin\Debug\net7.0-windows\PdfSharp.dll
+C:\Users\Admin\Documents\Theatre\src\Theatre\bin\Debug\net7.0-windows\SkiaSharp.dll
+C:\Users\Admin\Documents\Theatre\src\Theatre\bin\Debug\net7.0-windows\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Admin\Documents\Theatre\src\Theatre\bin\Debug\net7.0-windows\System.Drawing.Common.dll
+C:\Users\Admin\Documents\Theatre\src\Theatre\bin\Debug\net7.0-windows\System.Formats.Asn1.dll
+C:\Users\Admin\Documents\Theatre\src\Theatre\bin\Debug\net7.0-windows\System.Security.Cryptography.Pkcs.dll
+C:\Users\Admin\Documents\Theatre\src\Theatre\bin\Debug\net7.0-windows\System.Security.Cryptography.Xml.dll
+C:\Users\Admin\Documents\Theatre\src\Theatre\bin\Debug\net7.0-windows\System.Text.Encoding.CodePages.dll
+C:\Users\Admin\Documents\Theatre\src\Theatre\bin\Debug\net7.0-windows\System.Text.Encodings.Web.dll
+C:\Users\Admin\Documents\Theatre\src\Theatre\bin\Debug\net7.0-windows\System.Text.Json.dll
+C:\Users\Admin\Documents\Theatre\src\Theatre\bin\Debug\net7.0-windows\de\MahApps.Metro.resources.dll
+C:\Users\Admin\Documents\Theatre\src\Theatre\bin\Debug\net7.0-windows\de\PdfSharp.Charting.resources.dll
+C:\Users\Admin\Documents\Theatre\src\Theatre\bin\Debug\net7.0-windows\de\PdfSharp.resources.dll
+C:\Users\Admin\Documents\Theatre\src\Theatre\bin\Debug\net7.0-windows\runtimes\osx\native\libSkiaSharp.dylib
+C:\Users\Admin\Documents\Theatre\src\Theatre\bin\Debug\net7.0-windows\runtimes\win-arm64\native\libSkiaSharp.dll
+C:\Users\Admin\Documents\Theatre\src\Theatre\bin\Debug\net7.0-windows\runtimes\win-x64\native\libSkiaSharp.dll
+C:\Users\Admin\Documents\Theatre\src\Theatre\bin\Debug\net7.0-windows\runtimes\win-x86\native\libSkiaSharp.dll
+C:\Users\Admin\Documents\Theatre\src\Theatre\bin\Debug\net7.0-windows\runtimes\win\lib\net7.0\System.Security.Cryptography.Pkcs.dll
+C:\Users\Admin\Documents\Theatre\src\Theatre\bin\Debug\net7.0-windows\runtimes\win\lib\net7.0\System.Text.Encoding.CodePages.dll
+C:\Users\Admin\Documents\Theatre\src\Theatre\bin\Debug\net7.0-windows\runtimes\browser\lib\net7.0\System.Text.Encodings.Web.dll
+C:\Users\Admin\Documents\Theatre\src\Theatre\bin\Debug\net7.0-windows\Theatre.Business.dll
+C:\Users\Admin\Documents\Theatre\src\Theatre\bin\Debug\net7.0-windows\Theatre.Core.dll
+C:\Users\Admin\Documents\Theatre\src\Theatre\bin\Debug\net7.0-windows\Theatre.Business.pdb
+C:\Users\Admin\Documents\Theatre\src\Theatre\bin\Debug\net7.0-windows\Theatre.Core.pdb
+C:\Users\Admin\Documents\Theatre\src\Theatre\obj\Debug\net7.0-windows\Theatre.csproj.AssemblyReference.cache
+C:\Users\Admin\Documents\Theatre\src\Theatre\obj\Debug\net7.0-windows\Pages\AuthorizationPage.baml
+C:\Users\Admin\Documents\Theatre\src\Theatre\obj\Debug\net7.0-windows\Pages\CaptchaPage.baml
+C:\Users\Admin\Documents\Theatre\src\Theatre\obj\Debug\net7.0-windows\Pages\EditSpectaclePage.baml
+C:\Users\Admin\Documents\Theatre\src\Theatre\obj\Debug\net7.0-windows\MainWindow.g.cs
+C:\Users\Admin\Documents\Theatre\src\Theatre\obj\Debug\net7.0-windows\Pages\AddSpectaclePage.g.cs
+C:\Users\Admin\Documents\Theatre\src\Theatre\obj\Debug\net7.0-windows\Pages\AuthorizationPage.g.cs
+C:\Users\Admin\Documents\Theatre\src\Theatre\obj\Debug\net7.0-windows\Pages\CaptchaPage.g.cs
+C:\Users\Admin\Documents\Theatre\src\Theatre\obj\Debug\net7.0-windows\Pages\EditSpectaclePage.g.cs
+C:\Users\Admin\Documents\Theatre\src\Theatre\obj\Debug\net7.0-windows\Pages\MainPage.g.cs
+C:\Users\Admin\Documents\Theatre\src\Theatre\obj\Debug\net7.0-windows\Pages\RegistrationPage.g.cs
+C:\Users\Admin\Documents\Theatre\src\Theatre\obj\Debug\net7.0-windows\Pages\SpectaclePage.g.cs
+C:\Users\Admin\Documents\Theatre\src\Theatre\obj\Debug\net7.0-windows\Pages\UserProfilePage.g.cs
+C:\Users\Admin\Documents\Theatre\src\Theatre\obj\Debug\net7.0-windows\Windows\InpuntBalanceDialog.g.cs
+C:\Users\Admin\Documents\Theatre\src\Theatre\obj\Debug\net7.0-windows\App.g.cs
+C:\Users\Admin\Documents\Theatre\src\Theatre\obj\Debug\net7.0-windows\GeneratedInternalTypeHelper.g.cs
+C:\Users\Admin\Documents\Theatre\src\Theatre\obj\Debug\net7.0-windows\Theatre_MarkupCompile.cache
+C:\Users\Admin\Documents\Theatre\src\Theatre\obj\Debug\net7.0-windows\Theatre_MarkupCompile.lref
+C:\Users\Admin\Documents\Theatre\src\Theatre\obj\Debug\net7.0-windows\App.baml
+C:\Users\Admin\Documents\Theatre\src\Theatre\obj\Debug\net7.0-windows\MainWindow.baml
+C:\Users\Admin\Documents\Theatre\src\Theatre\obj\Debug\net7.0-windows\Pages\AddSpectaclePage.baml
+C:\Users\Admin\Documents\Theatre\src\Theatre\obj\Debug\net7.0-windows\Pages\MainPage.baml
+C:\Users\Admin\Documents\Theatre\src\Theatre\obj\Debug\net7.0-windows\Pages\RegistrationPage.baml
+C:\Users\Admin\Documents\Theatre\src\Theatre\obj\Debug\net7.0-windows\Pages\SpectaclePage.baml
+C:\Users\Admin\Documents\Theatre\src\Theatre\obj\Debug\net7.0-windows\Pages\UserProfilePage.baml
+C:\Users\Admin\Documents\Theatre\src\Theatre\obj\Debug\net7.0-windows\Windows\InpuntBalanceDialog.baml
+C:\Users\Admin\Documents\Theatre\src\Theatre\obj\Debug\net7.0-windows\Theatre.g.resources
+C:\Users\Admin\Documents\Theatre\src\Theatre\obj\Debug\net7.0-windows\Theatre.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Documents\Theatre\src\Theatre\obj\Debug\net7.0-windows\Theatre.AssemblyInfoInputs.cache
+C:\Users\Admin\Documents\Theatre\src\Theatre\obj\Debug\net7.0-windows\Theatre.AssemblyInfo.cs
+C:\Users\Admin\Documents\Theatre\src\Theatre\obj\Debug\net7.0-windows\Theatre.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Documents\Theatre\src\Theatre\obj\Debug\net7.0-windows\Theatre.sourcelink.json
+C:\Users\Admin\Documents\Theatre\src\Theatre\obj\Debug\net7.0-windows\Theatre.csproj.Up2Date
+C:\Users\Admin\Documents\Theatre\src\Theatre\obj\Debug\net7.0-windows\Theatre.dll
+C:\Users\Admin\Documents\Theatre\src\Theatre\obj\Debug\net7.0-windows\refint\Theatre.dll
+C:\Users\Admin\Documents\Theatre\src\Theatre\obj\Debug\net7.0-windows\Theatre.pdb
+C:\Users\Admin\Documents\Theatre\src\Theatre\obj\Debug\net7.0-windows\Theatre.genruntimeconfig.cache
+C:\Users\Admin\Documents\Theatre\src\Theatre\obj\Debug\net7.0-windows\ref\Theatre.dll
+C:\Users\Admin\Documents\Theatre\src\Theatre\bin\Debug\net7.0-windows\Theatre.Data.dll
+C:\Users\Admin\Documents\Theatre\src\Theatre\bin\Debug\net7.0-windows\Theatre.Data.pdb

@@ -1,0 +1,16 @@
+C:\Users\Admin\Documents\Theatre\src\Theatra.Datas\obj\Debug\net7.0-windows\Theatra.Datas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Documents\Theatre\src\Theatra.Datas\obj\Debug\net7.0-windows\Theatra.Datas.AssemblyInfoInputs.cache
+C:\Users\Admin\Documents\Theatre\src\Theatra.Datas\obj\Debug\net7.0-windows\Theatra.Datas.AssemblyInfo.cs
+C:\Users\Admin\Documents\Theatre\src\Theatra.Datas\obj\Debug\net7.0-windows\Theatra.Datas.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Documents\Theatre\src\Theatra.Datas\obj\Debug\net7.0-windows\Theatra.Datas.sourcelink.json
+C:\Users\Admin\Documents\Theatre\src\Theatra.Datas\bin\Debug\net7.0-windows\Theatra.Datas.deps.json
+C:\Users\Admin\Documents\Theatre\src\Theatra.Datas\bin\Debug\net7.0-windows\Theatra.Datas.dll
+C:\Users\Admin\Documents\Theatre\src\Theatra.Datas\bin\Debug\net7.0-windows\Theatra.Datas.pdb
+C:\Users\Admin\Documents\Theatre\src\Theatra.Datas\bin\Debug\net7.0-windows\Theatre.Core.dll
+C:\Users\Admin\Documents\Theatre\src\Theatra.Datas\bin\Debug\net7.0-windows\Theatre.Core.pdb
+C:\Users\Admin\Documents\Theatre\src\Theatra.Datas\obj\Debug\net7.0-windows\Theatra.Datas.csproj.AssemblyReference.cache
+C:\Users\Admin\Documents\Theatre\src\Theatra.Datas\obj\Debug\net7.0-windows\Theatra..470247FB.Up2Date
+C:\Users\Admin\Documents\Theatre\src\Theatra.Datas\obj\Debug\net7.0-windows\Theatra.Datas.dll
+C:\Users\Admin\Documents\Theatre\src\Theatra.Datas\obj\Debug\net7.0-windows\refint\Theatra.Datas.dll
+C:\Users\Admin\Documents\Theatre\src\Theatra.Datas\obj\Debug\net7.0-windows\Theatra.Datas.pdb
+C:\Users\Admin\Documents\Theatre\src\Theatra.Datas\obj\Debug\net7.0-windows\ref\Theatra.Datas.dll

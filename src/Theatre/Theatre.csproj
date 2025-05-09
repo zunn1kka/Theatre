@@ -1,0 +1,69 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net7.0-windows</TargetFramework>
+    <Nullable>enable</Nullable>
+    <UseWPF>true</UseWPF>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Remove="Assets\captcha.png" />
+    <None Remove="Assets\github.png" />
+    <None Remove="Assets\icon.png" />
+    <None Remove="Assets\itm.png" />
+    <None Remove="Assets\plus.png" />
+    <None Remove="Assets\tg.png" />
+    <None Remove="Assets\TheaterBackground.jpg" />
+    <None Remove="Assets\UserProfile.jpg" />
+    <None Remove="Assets\userProfile.png" />
+    <None Remove="Assets\vk.png" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Resource Include="Assets\captcha.png" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="MahApps.Metro" Version="2.4.10" />
+    <PackageReference Include="Microsoft.Azure.Amqp" Version="2.6.9" />
+    <PackageReference Include="PDFsharp" Version="6.1.1" />
+    <PackageReference Include="SkiaSharp" Version="3.116.1" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Theatra.Datas\Theatre.Data.csproj" />
+    <ProjectReference Include="..\Theatre.Business\Theatre.Business.csproj" />
+    <ProjectReference Include="..\Theatre.Core\Theatre.Core.csproj" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Resource Include="Assets\github.png" />
+    <Resource Include="Assets\icon.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Resource>
+    <Resource Include="Assets\itm.png" />
+    <Resource Include="Assets\plus.png" />
+    <Resource Include="Assets\tg.png" />
+    <Resource Include="Assets\TheaterBackground.jpg" />
+    <Resource Include="Assets\UserProfile.jpg" />
+    <Resource Include="Assets\userProfile.png" />
+    <Resource Include="Assets\vk.png" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Compile Update="Users.Designer.cs">
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Users.settings</DependentUpon>
+    </Compile>
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Update="Users.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Users.Designer.cs</LastGenOutput>
+    </None>
+  </ItemGroup>
+
+</Project>

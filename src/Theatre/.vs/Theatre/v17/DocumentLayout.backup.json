@@ -1,0 +1,772 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Admin\\Documents\\Theatre\\src\\Theatre\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7E8F10AC-DD33-405A-8C8C-4EBFF29BBEA1}|..\\Theatre.Business\\Theatre.Business.csproj|c:\\users\\admin\\documents\\theatre\\src\\theatre.business\\validators\\captchavalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68619253-BE19-41CB-86E1-1305182B002E}|Theatre.csproj|c:\\users\\admin\\documents\\theatre\\src\\theatre\\viewmodels\\spectacleviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{68619253-BE19-41CB-86E1-1305182B002E}|Theatre.csproj|solutionrelative:viewmodels\\spectacleviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68619253-BE19-41CB-86E1-1305182B002E}|Theatre.csproj|c:\\users\\admin\\documents\\theatre\\src\\theatre\\viewmodels\\profileviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{68619253-BE19-41CB-86E1-1305182B002E}|Theatre.csproj|solutionrelative:viewmodels\\profileviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68619253-BE19-41CB-86E1-1305182B002E}|Theatre.csproj|c:\\users\\admin\\documents\\theatre\\src\\theatre\\viewmodels\\authorizationviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{68619253-BE19-41CB-86E1-1305182B002E}|Theatre.csproj|solutionrelative:viewmodels\\authorizationviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68619253-BE19-41CB-86E1-1305182B002E}|Theatre.csproj|c:\\users\\admin\\documents\\theatre\\src\\theatre\\viewmodels\\baseviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{68619253-BE19-41CB-86E1-1305182B002E}|Theatre.csproj|solutionrelative:viewmodels\\baseviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68619253-BE19-41CB-86E1-1305182B002E}|Theatre.csproj|c:\\users\\admin\\documents\\theatre\\src\\theatre\\pages\\userprofilepage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{68619253-BE19-41CB-86E1-1305182B002E}|Theatre.csproj|solutionrelative:pages\\userprofilepage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68619253-BE19-41CB-86E1-1305182B002E}|Theatre.csproj|c:\\users\\admin\\documents\\theatre\\src\\theatre\\pages\\spectaclepage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{68619253-BE19-41CB-86E1-1305182B002E}|Theatre.csproj|solutionrelative:pages\\spectaclepage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68619253-BE19-41CB-86E1-1305182B002E}|Theatre.csproj|c:\\users\\admin\\documents\\theatre\\src\\theatre\\pages\\registrationpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{68619253-BE19-41CB-86E1-1305182B002E}|Theatre.csproj|solutionrelative:pages\\registrationpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68619253-BE19-41CB-86E1-1305182B002E}|Theatre.csproj|c:\\users\\admin\\documents\\theatre\\src\\theatre\\pages\\mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{68619253-BE19-41CB-86E1-1305182B002E}|Theatre.csproj|solutionrelative:pages\\mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68619253-BE19-41CB-86E1-1305182B002E}|Theatre.csproj|c:\\users\\admin\\documents\\theatre\\src\\theatre\\pages\\editspectaclepage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{68619253-BE19-41CB-86E1-1305182B002E}|Theatre.csproj|solutionrelative:pages\\editspectaclepage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68619253-BE19-41CB-86E1-1305182B002E}|Theatre.csproj|c:\\users\\admin\\documents\\theatre\\src\\theatre\\pages\\captchapage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{68619253-BE19-41CB-86E1-1305182B002E}|Theatre.csproj|solutionrelative:pages\\captchapage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68619253-BE19-41CB-86E1-1305182B002E}|Theatre.csproj|c:\\users\\admin\\documents\\theatre\\src\\theatre\\pages\\authorizationpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{68619253-BE19-41CB-86E1-1305182B002E}|Theatre.csproj|solutionrelative:pages\\authorizationpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68619253-BE19-41CB-86E1-1305182B002E}|Theatre.csproj|c:\\users\\admin\\documents\\theatre\\src\\theatre\\pages\\addspectaclepage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{68619253-BE19-41CB-86E1-1305182B002E}|Theatre.csproj|solutionrelative:pages\\addspectaclepage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68619253-BE19-41CB-86E1-1305182B002E}|Theatre.csproj|c:\\users\\admin\\documents\\theatre\\src\\theatre\\pages\\addspectaclepage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{68619253-BE19-41CB-86E1-1305182B002E}|Theatre.csproj|solutionrelative:pages\\addspectaclepage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68619253-BE19-41CB-86E1-1305182B002E}|Theatre.csproj|c:\\users\\admin\\documents\\theatre\\src\\theatre\\pages\\captchapage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{68619253-BE19-41CB-86E1-1305182B002E}|Theatre.csproj|solutionrelative:pages\\captchapage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68619253-BE19-41CB-86E1-1305182B002E}|Theatre.csproj|c:\\users\\admin\\documents\\theatre\\src\\theatre\\pages\\registrationpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{68619253-BE19-41CB-86E1-1305182B002E}|Theatre.csproj|solutionrelative:pages\\registrationpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68619253-BE19-41CB-86E1-1305182B002E}|Theatre.csproj|c:\\users\\admin\\documents\\theatre\\src\\theatre\\pages\\authorizationpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{68619253-BE19-41CB-86E1-1305182B002E}|Theatre.csproj|solutionrelative:pages\\authorizationpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68619253-BE19-41CB-86E1-1305182B002E}|Theatre.csproj|c:\\users\\admin\\documents\\theatre\\src\\theatre\\pages\\userprofilepage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{68619253-BE19-41CB-86E1-1305182B002E}|Theatre.csproj|solutionrelative:pages\\userprofilepage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68619253-BE19-41CB-86E1-1305182B002E}|Theatre.csproj|c:\\users\\admin\\documents\\theatre\\src\\theatre\\pages\\editspectaclepage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{68619253-BE19-41CB-86E1-1305182B002E}|Theatre.csproj|solutionrelative:pages\\editspectaclepage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68619253-BE19-41CB-86E1-1305182B002E}|Theatre.csproj|c:\\users\\admin\\documents\\theatre\\src\\theatre\\pages\\spectaclepage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{68619253-BE19-41CB-86E1-1305182B002E}|Theatre.csproj|solutionrelative:pages\\spectaclepage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68619253-BE19-41CB-86E1-1305182B002E}|Theatre.csproj|c:\\users\\admin\\documents\\theatre\\src\\theatre\\pages\\mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{68619253-BE19-41CB-86E1-1305182B002E}|Theatre.csproj|solutionrelative:pages\\mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68619253-BE19-41CB-86E1-1305182B002E}|Theatre.csproj|c:\\users\\admin\\documents\\theatre\\src\\theatre\\windows\\inpuntbalancedialog.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{68619253-BE19-41CB-86E1-1305182B002E}|Theatre.csproj|solutionrelative:windows\\inpuntbalancedialog.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68619253-BE19-41CB-86E1-1305182B002E}|Theatre.csproj|c:\\users\\admin\\documents\\theatre\\src\\theatre\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{68619253-BE19-41CB-86E1-1305182B002E}|Theatre.csproj|solutionrelative:mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68619253-BE19-41CB-86E1-1305182B002E}|Theatre.csproj|c:\\users\\admin\\documents\\theatre\\src\\theatre\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{68619253-BE19-41CB-86E1-1305182B002E}|Theatre.csproj|solutionrelative:mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68619253-BE19-41CB-86E1-1305182B002E}|Theatre.csproj|c:\\users\\admin\\documents\\theatre\\src\\theatre\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{68619253-BE19-41CB-86E1-1305182B002E}|Theatre.csproj|solutionrelative:app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68619253-BE19-41CB-86E1-1305182B002E}|Theatre.csproj|c:\\users\\admin\\documents\\theatre\\src\\theatre\\commands\\relaycommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{68619253-BE19-41CB-86E1-1305182B002E}|Theatre.csproj|solutionrelative:commands\\relaycommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68619253-BE19-41CB-86E1-1305182B002E}|Theatre.csproj|c:\\users\\admin\\documents\\theatre\\src\\theatre\\windows\\inpuntbalancedialog.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{68619253-BE19-41CB-86E1-1305182B002E}|Theatre.csproj|solutionrelative:windows\\inpuntbalancedialog.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E8F10AC-DD33-405A-8C8C-4EBFF29BBEA1}|..\\Theatre.Business\\Theatre.Business.csproj|c:\\users\\admin\\documents\\theatre\\src\\theatre.business\\validators\\loginvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E8F10AC-DD33-405A-8C8C-4EBFF29BBEA1}|..\\Theatre.Business\\Theatre.Business.csproj|c:\\users\\admin\\documents\\theatre\\src\\theatre.business\\validators\\passwordvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F2D35C98-2105-4485-8CBC-5B05B3CEAF41}|..\\Theatre.Core\\Theatre.Core.csproj|c:\\users\\admin\\documents\\theatre\\src\\theatre.core\\interfaces\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F2D35C98-2105-4485-8CBC-5B05B3CEAF41}|..\\Theatre.Core\\Theatre.Core.csproj|c:\\users\\admin\\documents\\theatre\\src\\theatre.core\\services\\passwordhashedservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F2D35C98-2105-4485-8CBC-5B05B3CEAF41}|..\\Theatre.Core\\Theatre.Core.csproj|c:\\users\\admin\\documents\\theatre\\src\\theatre.core\\models\\userdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F2D35C98-2105-4485-8CBC-5B05B3CEAF41}|..\\Theatre.Core\\Theatre.Core.csproj|c:\\users\\admin\\documents\\theatre\\src\\theatre.core\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F2D35C98-2105-4485-8CBC-5B05B3CEAF41}|..\\Theatre.Core\\Theatre.Core.csproj|c:\\users\\admin\\documents\\theatre\\src\\theatre.core\\models\\ticket.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F2D35C98-2105-4485-8CBC-5B05B3CEAF41}|..\\Theatre.Core\\Theatre.Core.csproj|c:\\users\\admin\\documents\\theatre\\src\\theatre.core\\models\\spectacles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F2D35C98-2105-4485-8CBC-5B05B3CEAF41}|..\\Theatre.Core\\Theatre.Core.csproj|c:\\users\\admin\\documents\\theatre\\src\\theatre.core\\models\\spectaclegenre.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F2D35C98-2105-4485-8CBC-5B05B3CEAF41}|..\\Theatre.Core\\Theatre.Core.csproj|c:\\users\\admin\\documents\\theatre\\src\\theatre.core\\models\\seats.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F2D35C98-2105-4485-8CBC-5B05B3CEAF41}|..\\Theatre.Core\\Theatre.Core.csproj|c:\\users\\admin\\documents\\theatre\\src\\theatre.core\\models\\genre.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F2D35C98-2105-4485-8CBC-5B05B3CEAF41}|..\\Theatre.Core\\Theatre.Core.csproj|c:\\users\\admin\\documents\\theatre\\src\\theatre.core\\models\\currentuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68619253-BE19-41CB-86E1-1305182B002E}|Theatre.csproj|c:\\users\\admin\\documents\\theatre\\src\\theatre\\pages\\converters\\bytearraytoimageconverter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{68619253-BE19-41CB-86E1-1305182B002E}|Theatre.csproj|solutionrelative:pages\\converters\\bytearraytoimageconverter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68619253-BE19-41CB-86E1-1305182B002E}|Theatre.csproj|c:\\users\\admin\\documents\\theatre\\src\\theatre\\pages\\converters\\nulltovisibilityconverter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{68619253-BE19-41CB-86E1-1305182B002E}|Theatre.csproj|solutionrelative:pages\\converters\\nulltovisibilityconverter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68619253-BE19-41CB-86E1-1305182B002E}|Theatre.csproj|c:\\users\\admin\\documents\\theatre\\src\\theatre\\pages\\converters\\typeidtovisibilityconverter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{68619253-BE19-41CB-86E1-1305182B002E}|Theatre.csproj|solutionrelative:pages\\converters\\typeidtovisibilityconverter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Admin\\AppData\\Local\\Temp\\.vsdbgsrc\\663eae741a204ff437a3c7755147b6411af41c60c876629ecb38a7de166e1dc1\\XamlReader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C6719D16-DF01-46D5-9468-7F54748D8AC7}|..\\Theatra.Datas\\Theatre.Data.csproj|c:\\users\\admin\\documents\\theatre\\src\\theatra.datas\\sqlquery\\userquaries.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C6719D16-DF01-46D5-9468-7F54748D8AC7}|..\\Theatra.Datas\\Theatre.Data.csproj|c:\\users\\admin\\documents\\theatre\\src\\theatra.datas\\sqlquery\\spectacleservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C6719D16-DF01-46D5-9468-7F54748D8AC7}|..\\Theatra.Datas\\Theatre.Data.csproj|c:\\users\\admin\\documents\\theatre\\src\\theatra.datas\\sqlquery\\emailservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C6719D16-DF01-46D5-9468-7F54748D8AC7}|..\\Theatra.Datas\\Theatre.Data.csproj|c:\\users\\admin\\documents\\theatre\\src\\theatra.datas\\sqlquery\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ProfileViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Documents\\Theatre\\src\\Theatre\\ViewModels\\ProfileViewModel.cs",
+              "RelativeDocumentMoniker": "ViewModels\\ProfileViewModel.cs",
+              "ToolTip": "C:\\Users\\Admin\\Documents\\Theatre\\src\\Theatre\\ViewModels\\ProfileViewModel.cs",
+              "RelativeToolTip": "ViewModels\\ProfileViewModel.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAgwDAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-27T06:10:46.412Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "SpectacleViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Documents\\Theatre\\src\\Theatre\\ViewModels\\SpectacleViewModel.cs",
+              "RelativeDocumentMoniker": "ViewModels\\SpectacleViewModel.cs",
+              "ToolTip": "C:\\Users\\Admin\\Documents\\Theatre\\src\\Theatre\\ViewModels\\SpectacleViewModel.cs",
+              "RelativeToolTip": "ViewModels\\SpectacleViewModel.cs",
+              "ViewState": "AgIAAGIAAAAAAAAAAAApwBUAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-28T08:54:27.1Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CaptchaValidator.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Documents\\Theatre\\src\\Theatre.Business\\Validators\\CaptchaValidator.cs",
+              "RelativeDocumentMoniker": "..\\Theatre.Business\\Validators\\CaptchaValidator.cs",
+              "ToolTip": "C:\\Users\\Admin\\Documents\\Theatre\\src\\Theatre.Business\\Validators\\CaptchaValidator.cs",
+              "RelativeToolTip": "..\\Theatre.Business\\Validators\\CaptchaValidator.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABwAAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-26T16:29:22.731Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AuthorizationViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Documents\\Theatre\\src\\Theatre\\ViewModels\\AuthorizationViewModel.cs",
+              "RelativeDocumentMoniker": "ViewModels\\AuthorizationViewModel.cs",
+              "ToolTip": "C:\\Users\\Admin\\Documents\\Theatre\\src\\Theatre\\ViewModels\\AuthorizationViewModel.cs",
+              "RelativeToolTip": "ViewModels\\AuthorizationViewModel.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAAAIwCkAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-13T12:27:31.575Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "BaseViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Documents\\Theatre\\src\\Theatre\\ViewModels\\BaseViewModel.cs",
+              "RelativeDocumentMoniker": "ViewModels\\BaseViewModel.cs",
+              "ToolTip": "C:\\Users\\Admin\\Documents\\Theatre\\src\\Theatre\\ViewModels\\BaseViewModel.cs",
+              "RelativeToolTip": "ViewModels\\BaseViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-20T07:53:12.517Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "UserProfilePage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Documents\\Theatre\\src\\Theatre\\Pages\\UserProfilePage.xaml.cs",
+              "RelativeDocumentMoniker": "Pages\\UserProfilePage.xaml.cs",
+              "ToolTip": "C:\\Users\\Admin\\Documents\\Theatre\\src\\Theatre\\Pages\\UserProfilePage.xaml.cs",
+              "RelativeToolTip": "Pages\\UserProfilePage.xaml.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABYAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-27T06:11:09.333Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "SpectaclePage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Documents\\Theatre\\src\\Theatre\\Pages\\SpectaclePage.xaml.cs",
+              "RelativeDocumentMoniker": "Pages\\SpectaclePage.xaml.cs",
+              "ToolTip": "C:\\Users\\Admin\\Documents\\Theatre\\src\\Theatre\\Pages\\SpectaclePage.xaml.cs",
+              "RelativeToolTip": "Pages\\SpectaclePage.xaml.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAAB4AAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-26T18:11:54.047Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "RegistrationPage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Documents\\Theatre\\src\\Theatre\\Pages\\RegistrationPage.xaml.cs",
+              "RelativeDocumentMoniker": "Pages\\RegistrationPage.xaml.cs",
+              "ToolTip": "C:\\Users\\Admin\\Documents\\Theatre\\src\\Theatre\\Pages\\RegistrationPage.xaml.cs",
+              "RelativeToolTip": "Pages\\RegistrationPage.xaml.cs",
+              "ViewState": "AgIAAJEAAAAAAAAAAAAcwJYAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-27T06:10:32.299Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "MainPage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Documents\\Theatre\\src\\Theatre\\Pages\\MainPage.xaml.cs",
+              "RelativeDocumentMoniker": "Pages\\MainPage.xaml.cs",
+              "ToolTip": "C:\\Users\\Admin\\Documents\\Theatre\\src\\Theatre\\Pages\\MainPage.xaml.cs",
+              "RelativeToolTip": "Pages\\MainPage.xaml.cs",
+              "ViewState": "AgIAABUBAAAAAAAAAAAAAAABAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-26T17:01:21.889Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "EditSpectaclePage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Documents\\Theatre\\src\\Theatre\\Pages\\EditSpectaclePage.xaml.cs",
+              "RelativeDocumentMoniker": "Pages\\EditSpectaclePage.xaml.cs",
+              "ToolTip": "C:\\Users\\Admin\\Documents\\Theatre\\src\\Theatre\\Pages\\EditSpectaclePage.xaml.cs",
+              "RelativeToolTip": "Pages\\EditSpectaclePage.xaml.cs",
+              "ViewState": "AgIAANQAAAAAAAAAAAAAABQAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-28T08:53:38.862Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "CaptchaPage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Documents\\Theatre\\src\\Theatre\\Pages\\CaptchaPage.xaml.cs",
+              "RelativeDocumentMoniker": "Pages\\CaptchaPage.xaml.cs",
+              "ToolTip": "C:\\Users\\Admin\\Documents\\Theatre\\src\\Theatre\\Pages\\CaptchaPage.xaml.cs",
+              "RelativeToolTip": "Pages\\CaptchaPage.xaml.cs",
+              "ViewState": "AgIAABwAAAAAAAAAAAAgwAQAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-17T14:05:52.23Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "AuthorizationPage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Documents\\Theatre\\src\\Theatre\\Pages\\AuthorizationPage.xaml.cs",
+              "RelativeDocumentMoniker": "Pages\\AuthorizationPage.xaml.cs",
+              "ToolTip": "C:\\Users\\Admin\\Documents\\Theatre\\src\\Theatre\\Pages\\AuthorizationPage.xaml.cs",
+              "RelativeToolTip": "Pages\\AuthorizationPage.xaml.cs",
+              "ViewState": "AgIAAEUAAAAAAAAAAAAowFUAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-20T07:45:01.037Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "AddSpectaclePage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Documents\\Theatre\\src\\Theatre\\Pages\\AddSpectaclePage.xaml.cs",
+              "RelativeDocumentMoniker": "Pages\\AddSpectaclePage.xaml.cs",
+              "ToolTip": "C:\\Users\\Admin\\Documents\\Theatre\\src\\Theatre\\Pages\\AddSpectaclePage.xaml.cs",
+              "RelativeToolTip": "Pages\\AddSpectaclePage.xaml.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAowH4AAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-23T14:47:00.529Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "AddSpectaclePage.xaml",
+              "DocumentMoniker": "C:\\Users\\Admin\\Documents\\Theatre\\src\\Theatre\\Pages\\AddSpectaclePage.xaml",
+              "RelativeDocumentMoniker": "Pages\\AddSpectaclePage.xaml",
+              "ToolTip": "C:\\Users\\Admin\\Documents\\Theatre\\src\\Theatre\\Pages\\AddSpectaclePage.xaml",
+              "RelativeToolTip": "Pages\\AddSpectaclePage.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-03-26T17:25:05.485Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "MainPage.xaml",
+              "DocumentMoniker": "C:\\Users\\Admin\\Documents\\Theatre\\src\\Theatre\\Pages\\MainPage.xaml",
+              "RelativeDocumentMoniker": "Pages\\MainPage.xaml",
+              "ToolTip": "C:\\Users\\Admin\\Documents\\Theatre\\src\\Theatre\\Pages\\MainPage.xaml",
+              "RelativeToolTip": "Pages\\MainPage.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-03-26T17:01:24.498Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "SpectaclePage.xaml",
+              "DocumentMoniker": "C:\\Users\\Admin\\Documents\\Theatre\\src\\Theatre\\Pages\\SpectaclePage.xaml",
+              "RelativeDocumentMoniker": "Pages\\SpectaclePage.xaml",
+              "ToolTip": "C:\\Users\\Admin\\Documents\\Theatre\\src\\Theatre\\Pages\\SpectaclePage.xaml",
+              "RelativeToolTip": "Pages\\SpectaclePage.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-03-26T17:25:39.685Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "EditSpectaclePage.xaml",
+              "DocumentMoniker": "C:\\Users\\Admin\\Documents\\Theatre\\src\\Theatre\\Pages\\EditSpectaclePage.xaml",
+              "RelativeDocumentMoniker": "Pages\\EditSpectaclePage.xaml",
+              "ToolTip": "C:\\Users\\Admin\\Documents\\Theatre\\src\\Theatre\\Pages\\EditSpectaclePage.xaml",
+              "RelativeToolTip": "Pages\\EditSpectaclePage.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-03-28T08:19:58.29Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "UserProfilePage.xaml",
+              "DocumentMoniker": "C:\\Users\\Admin\\Documents\\Theatre\\src\\Theatre\\Pages\\UserProfilePage.xaml",
+              "RelativeDocumentMoniker": "Pages\\UserProfilePage.xaml",
+              "ToolTip": "C:\\Users\\Admin\\Documents\\Theatre\\src\\Theatre\\Pages\\UserProfilePage.xaml",
+              "RelativeToolTip": "Pages\\UserProfilePage.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-03-26T17:25:45.162Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "AuthorizationPage.xaml",
+              "DocumentMoniker": "C:\\Users\\Admin\\Documents\\Theatre\\src\\Theatre\\Pages\\AuthorizationPage.xaml",
+              "RelativeDocumentMoniker": "Pages\\AuthorizationPage.xaml",
+              "ToolTip": "C:\\Users\\Admin\\Documents\\Theatre\\src\\Theatre\\Pages\\AuthorizationPage.xaml",
+              "RelativeToolTip": "Pages\\AuthorizationPage.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-04-20T09:24:25.197Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "RegistrationPage.xaml",
+              "DocumentMoniker": "C:\\Users\\Admin\\Documents\\Theatre\\src\\Theatre\\Pages\\RegistrationPage.xaml",
+              "RelativeDocumentMoniker": "Pages\\RegistrationPage.xaml",
+              "ToolTip": "C:\\Users\\Admin\\Documents\\Theatre\\src\\Theatre\\Pages\\RegistrationPage.xaml",
+              "RelativeToolTip": "Pages\\RegistrationPage.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-03-26T17:25:34.448Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "CaptchaPage.xaml",
+              "DocumentMoniker": "C:\\Users\\Admin\\Documents\\Theatre\\src\\Theatre\\Pages\\CaptchaPage.xaml",
+              "RelativeDocumentMoniker": "Pages\\CaptchaPage.xaml",
+              "ToolTip": "C:\\Users\\Admin\\Documents\\Theatre\\src\\Theatre\\Pages\\CaptchaPage.xaml",
+              "RelativeToolTip": "Pages\\CaptchaPage.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-03-26T16:28:16.555Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "InpuntBalanceDialog.xaml",
+              "DocumentMoniker": "C:\\Users\\Admin\\Documents\\Theatre\\src\\Theatre\\Windows\\InpuntBalanceDialog.xaml",
+              "RelativeDocumentMoniker": "Windows\\InpuntBalanceDialog.xaml",
+              "ToolTip": "C:\\Users\\Admin\\Documents\\Theatre\\src\\Theatre\\Windows\\InpuntBalanceDialog.xaml",
+              "RelativeToolTip": "Windows\\InpuntBalanceDialog.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-04-21T16:22:23.673Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "RelayCommand.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Documents\\Theatre\\src\\Theatre\\Commands\\RelayCommand.cs",
+              "RelativeDocumentMoniker": "Commands\\RelayCommand.cs",
+              "ToolTip": "C:\\Users\\Admin\\Documents\\Theatre\\src\\Theatre\\Commands\\RelayCommand.cs",
+              "RelativeToolTip": "Commands\\RelayCommand.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEoAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-28T08:52:50.143Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\Admin\\Documents\\Theatre\\src\\Theatre\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "MainWindow.xaml",
+              "ToolTip": "C:\\Users\\Admin\\Documents\\Theatre\\src\\Theatre\\MainWindow.xaml",
+              "RelativeToolTip": "MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-04-21T16:18:51.096Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "App.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Documents\\Theatre\\src\\Theatre\\App.xaml.cs",
+              "RelativeDocumentMoniker": "App.xaml.cs",
+              "ToolTip": "C:\\Users\\Admin\\Documents\\Theatre\\src\\Theatre\\App.xaml.cs",
+              "RelativeToolTip": "App.xaml.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAArwBYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-20T07:57:42.877Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Documents\\Theatre\\src\\Theatre\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\Admin\\Documents\\Theatre\\src\\Theatre\\MainWindow.xaml.cs",
+              "RelativeToolTip": "MainWindow.xaml.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAqwAIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-20T07:58:05.825Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "UserQuaries.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Documents\\Theatre\\src\\Theatra.Datas\\SqlQuery\\UserQuaries.cs",
+              "RelativeDocumentMoniker": "..\\Theatra.Datas\\SqlQuery\\UserQuaries.cs",
+              "ToolTip": "C:\\Users\\Admin\\Documents\\Theatre\\src\\Theatra.Datas\\SqlQuery\\UserQuaries.cs",
+              "RelativeToolTip": "..\\Theatra.Datas\\SqlQuery\\UserQuaries.cs",
+              "ViewState": "AgIAAKMAAAAAAAAAAAAhwKsAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-20T09:14:05.699Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "SpectacleService.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Documents\\Theatre\\src\\Theatra.Datas\\SqlQuery\\SpectacleService.cs",
+              "RelativeDocumentMoniker": "..\\Theatra.Datas\\SqlQuery\\SpectacleService.cs",
+              "ToolTip": "C:\\Users\\Admin\\Documents\\Theatre\\src\\Theatra.Datas\\SqlQuery\\SpectacleService.cs",
+              "RelativeToolTip": "..\\Theatra.Datas\\SqlQuery\\SpectacleService.cs",
+              "ViewState": "AgIAABgCAAAAAAAAAAAAADUCAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-20T09:13:45.398Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "EmailServices.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Documents\\Theatre\\src\\Theatra.Datas\\SqlQuery\\EmailServices.cs",
+              "RelativeDocumentMoniker": "..\\Theatra.Datas\\SqlQuery\\EmailServices.cs",
+              "ToolTip": "C:\\Users\\Admin\\Documents\\Theatre\\src\\Theatra.Datas\\SqlQuery\\EmailServices.cs",
+              "RelativeToolTip": "..\\Theatra.Datas\\SqlQuery\\EmailServices.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-20T09:14:09.112Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "AuthService.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Documents\\Theatre\\src\\Theatra.Datas\\SqlQuery\\AuthService.cs",
+              "RelativeDocumentMoniker": "..\\Theatra.Datas\\SqlQuery\\AuthService.cs",
+              "ToolTip": "C:\\Users\\Admin\\Documents\\Theatre\\src\\Theatra.Datas\\SqlQuery\\AuthService.cs",
+              "RelativeToolTip": "..\\Theatra.Datas\\SqlQuery\\AuthService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-20T09:13:43.878Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "InpuntBalanceDialog.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Documents\\Theatre\\src\\Theatre\\Windows\\InpuntBalanceDialog.xaml.cs",
+              "RelativeDocumentMoniker": "Windows\\InpuntBalanceDialog.xaml.cs",
+              "ToolTip": "C:\\Users\\Admin\\Documents\\Theatre\\src\\Theatre\\Windows\\InpuntBalanceDialog.xaml.cs",
+              "RelativeToolTip": "Windows\\InpuntBalanceDialog.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-20T07:57:32.684Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "LoginValidator.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Documents\\Theatre\\src\\Theatre.Business\\Validators\\LoginValidator.cs",
+              "RelativeDocumentMoniker": "..\\Theatre.Business\\Validators\\LoginValidator.cs",
+              "ToolTip": "C:\\Users\\Admin\\Documents\\Theatre\\src\\Theatre.Business\\Validators\\LoginValidator.cs",
+              "RelativeToolTip": "..\\Theatre.Business\\Validators\\LoginValidator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-20T08:01:35.66Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "PasswordValidator.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Documents\\Theatre\\src\\Theatre.Business\\Validators\\PasswordValidator.cs",
+              "RelativeDocumentMoniker": "..\\Theatre.Business\\Validators\\PasswordValidator.cs",
+              "ToolTip": "C:\\Users\\Admin\\Documents\\Theatre\\src\\Theatre.Business\\Validators\\PasswordValidator.cs",
+              "RelativeToolTip": "..\\Theatre.Business\\Validators\\PasswordValidator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-27T06:53:02.217Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "IUserService.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Documents\\Theatre\\src\\Theatre.Core\\Interfaces\\IUserService.cs",
+              "RelativeDocumentMoniker": "..\\Theatre.Core\\Interfaces\\IUserService.cs",
+              "ToolTip": "C:\\Users\\Admin\\Documents\\Theatre\\src\\Theatre.Core\\Interfaces\\IUserService.cs",
+              "RelativeToolTip": "..\\Theatre.Core\\Interfaces\\IUserService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-20T08:39:32.6Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "Genre.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Documents\\Theatre\\src\\Theatre.Core\\Models\\Genre.cs",
+              "RelativeDocumentMoniker": "..\\Theatre.Core\\Models\\Genre.cs",
+              "ToolTip": "C:\\Users\\Admin\\Documents\\Theatre\\src\\Theatre.Core\\Models\\Genre.cs",
+              "RelativeToolTip": "..\\Theatre.Core\\Models\\Genre.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-28T08:21:58.489Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "Spectacles.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Documents\\Theatre\\src\\Theatre.Core\\Models\\Spectacles.cs",
+              "RelativeDocumentMoniker": "..\\Theatre.Core\\Models\\Spectacles.cs",
+              "ToolTip": "C:\\Users\\Admin\\Documents\\Theatre\\src\\Theatre.Core\\Models\\Spectacles.cs",
+              "RelativeToolTip": "..\\Theatre.Core\\Models\\Spectacles.cs",
+              "ViewState": "AgIAAFQAAAAAAAAAAAA3wGMAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-28T08:22:25.235Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "Seats.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Documents\\Theatre\\src\\Theatre.Core\\Models\\Seats.cs",
+              "RelativeDocumentMoniker": "..\\Theatre.Core\\Models\\Seats.cs",
+              "ToolTip": "C:\\Users\\Admin\\Documents\\Theatre\\src\\Theatre.Core\\Models\\Seats.cs",
+              "RelativeToolTip": "..\\Theatre.Core\\Models\\Seats.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-28T08:22:07.34Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "SpectacleGenre.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Documents\\Theatre\\src\\Theatre.Core\\Models\\SpectacleGenre.cs",
+              "RelativeDocumentMoniker": "..\\Theatre.Core\\Models\\SpectacleGenre.cs",
+              "ToolTip": "C:\\Users\\Admin\\Documents\\Theatre\\src\\Theatre.Core\\Models\\SpectacleGenre.cs",
+              "RelativeToolTip": "..\\Theatre.Core\\Models\\SpectacleGenre.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-28T08:22:33.709Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "CurrentUser.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Documents\\Theatre\\src\\Theatre.Core\\Models\\CurrentUser.cs",
+              "RelativeDocumentMoniker": "..\\Theatre.Core\\Models\\CurrentUser.cs",
+              "ToolTip": "C:\\Users\\Admin\\Documents\\Theatre\\src\\Theatre.Core\\Models\\CurrentUser.cs",
+              "RelativeToolTip": "..\\Theatre.Core\\Models\\CurrentUser.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-27T16:09:48.153Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "PasswordHashedService.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Documents\\Theatre\\src\\Theatre.Core\\Services\\PasswordHashedService.cs",
+              "RelativeDocumentMoniker": "..\\Theatre.Core\\Services\\PasswordHashedService.cs",
+              "ToolTip": "C:\\Users\\Admin\\Documents\\Theatre\\src\\Theatre.Core\\Services\\PasswordHashedService.cs",
+              "RelativeToolTip": "..\\Theatre.Core\\Services\\PasswordHashedService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-20T08:23:25.053Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "Ticket.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Documents\\Theatre\\src\\Theatre.Core\\Models\\Ticket.cs",
+              "RelativeDocumentMoniker": "..\\Theatre.Core\\Models\\Ticket.cs",
+              "ToolTip": "C:\\Users\\Admin\\Documents\\Theatre\\src\\Theatre.Core\\Models\\Ticket.cs",
+              "RelativeToolTip": "..\\Theatre.Core\\Models\\Ticket.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-28T08:22:41.67Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Documents\\Theatre\\src\\Theatre.Core\\Models\\User.cs",
+              "RelativeDocumentMoniker": "..\\Theatre.Core\\Models\\User.cs",
+              "ToolTip": "C:\\Users\\Admin\\Documents\\Theatre\\src\\Theatre.Core\\Models\\User.cs",
+              "RelativeToolTip": "..\\Theatre.Core\\Models\\User.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAcwAAAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-27T16:18:52.407Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "UserData.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Documents\\Theatre\\src\\Theatre.Core\\Models\\UserData.cs",
+              "RelativeDocumentMoniker": "..\\Theatre.Core\\Models\\UserData.cs",
+              "ToolTip": "C:\\Users\\Admin\\Documents\\Theatre\\src\\Theatre.Core\\Models\\UserData.cs",
+              "RelativeToolTip": "..\\Theatre.Core\\Models\\UserData.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-27T16:52:50.274Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "ByteArrayToImageConverter.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Documents\\Theatre\\src\\Theatre\\Pages\\Converters\\ByteArrayToImageConverter.cs",
+              "RelativeDocumentMoniker": "Pages\\Converters\\ByteArrayToImageConverter.cs",
+              "ToolTip": "C:\\Users\\Admin\\Documents\\Theatre\\src\\Theatre\\Pages\\Converters\\ByteArrayToImageConverter.cs",
+              "RelativeToolTip": "Pages\\Converters\\ByteArrayToImageConverter.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-20T07:44:04.936Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "NullToVisibilityConverter.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Documents\\Theatre\\src\\Theatre\\Pages\\Converters\\NullToVisibilityConverter.cs",
+              "RelativeDocumentMoniker": "Pages\\Converters\\NullToVisibilityConverter.cs",
+              "ToolTip": "C:\\Users\\Admin\\Documents\\Theatre\\src\\Theatre\\Pages\\Converters\\NullToVisibilityConverter.cs",
+              "RelativeToolTip": "Pages\\Converters\\NullToVisibilityConverter.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-06T14:17:25.168Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "TypeIdToVisibilityConverter.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Documents\\Theatre\\src\\Theatre\\Pages\\Converters\\TypeIdToVisibilityConverter.cs",
+              "RelativeDocumentMoniker": "Pages\\Converters\\TypeIdToVisibilityConverter.cs",
+              "ToolTip": "C:\\Users\\Admin\\Documents\\Theatre\\src\\Theatre\\Pages\\Converters\\TypeIdToVisibilityConverter.cs",
+              "RelativeToolTip": "Pages\\Converters\\TypeIdToVisibilityConverter.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-31T09:10:32.677Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "XamlReader.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\AppData\\Local\\Temp\\.vsdbgsrc\\663eae741a204ff437a3c7755147b6411af41c60c876629ecb38a7de166e1dc1\\XamlReader.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\AppData\\Local\\Temp\\.vsdbgsrc\\663eae741a204ff437a3c7755147b6411af41c60c876629ecb38a7de166e1dc1\\XamlReader.cs",
+              "ToolTip": "C:\\Users\\Admin\\AppData\\Local\\Temp\\.vsdbgsrc\\663eae741a204ff437a3c7755147b6411af41c60c876629ecb38a7de166e1dc1\\XamlReader.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\AppData\\Local\\Temp\\.vsdbgsrc\\663eae741a204ff437a3c7755147b6411af41c60c876629ecb38a7de166e1dc1\\XamlReader.cs",
+              "ViewState": "AgIAAMcBAAAAAAAAAAAiwNkBAAACAAAAAQAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-17T17:20:43.311Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

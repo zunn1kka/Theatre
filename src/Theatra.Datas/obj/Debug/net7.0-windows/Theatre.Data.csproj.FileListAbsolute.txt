@@ -1,0 +1,31 @@
+C:\Users\Admin\Documents\Theatre\src\Theatra.Datas\bin\Debug\net7.0-windows\Theatre.Data.deps.json
+C:\Users\Admin\Documents\Theatre\src\Theatra.Datas\bin\Debug\net7.0-windows\Theatre.Data.dll
+C:\Users\Admin\Documents\Theatre\src\Theatra.Datas\bin\Debug\net7.0-windows\Theatre.Data.pdb
+C:\Users\Admin\Documents\Theatre\src\Theatra.Datas\bin\Debug\net7.0-windows\Theatre.Core.dll
+C:\Users\Admin\Documents\Theatre\src\Theatra.Datas\bin\Debug\net7.0-windows\Theatre.Core.pdb
+C:\Users\Admin\Documents\Theatre\src\Theatra.Datas\obj\Debug\net7.0-windows\Theatre.Data.csproj.AssemblyReference.cache
+C:\Users\Admin\Documents\Theatre\src\Theatra.Datas\obj\Debug\net7.0-windows\Theatre.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Documents\Theatre\src\Theatra.Datas\obj\Debug\net7.0-windows\Theatre.Data.AssemblyInfoInputs.cache
+C:\Users\Admin\Documents\Theatre\src\Theatra.Datas\obj\Debug\net7.0-windows\Theatre.Data.AssemblyInfo.cs
+C:\Users\Admin\Documents\Theatre\src\Theatra.Datas\obj\Debug\net7.0-windows\Theatre.Data.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Documents\Theatre\src\Theatra.Datas\obj\Debug\net7.0-windows\Theatre.Data.sourcelink.json
+C:\Users\Admin\Documents\Theatre\src\Theatra.Datas\obj\Debug\net7.0-windows\Theatre..AE0B4B03.Up2Date
+C:\Users\Admin\Documents\Theatre\src\Theatra.Datas\obj\Debug\net7.0-windows\Theatre.Data.dll
+C:\Users\Admin\Documents\Theatre\src\Theatra.Datas\obj\Debug\net7.0-windows\refint\Theatre.Data.dll
+C:\Users\Admin\Documents\Theatre\src\Theatra.Datas\obj\Debug\net7.0-windows\Theatre.Data.pdb
+C:\Users\Admin\Documents\Theatre\src\Theatra.Datas\obj\Debug\net7.0-windows\ref\Theatre.Data.dll
+C:\Users\ISP\Documents\Демидов Денис ИСП33\Theatre\src\Theatra.Datas\bin\Debug\net7.0-windows\Theatre.Data.deps.json
+C:\Users\ISP\Documents\Демидов Денис ИСП33\Theatre\src\Theatra.Datas\bin\Debug\net7.0-windows\Theatre.Data.dll
+C:\Users\ISP\Documents\Демидов Денис ИСП33\Theatre\src\Theatra.Datas\bin\Debug\net7.0-windows\Theatre.Data.pdb
+C:\Users\ISP\Documents\Демидов Денис ИСП33\Theatre\src\Theatra.Datas\bin\Debug\net7.0-windows\Theatre.Core.dll
+C:\Users\ISP\Documents\Демидов Денис ИСП33\Theatre\src\Theatra.Datas\bin\Debug\net7.0-windows\Theatre.Core.pdb
+C:\Users\ISP\Documents\Демидов Денис ИСП33\Theatre\src\Theatra.Datas\obj\Debug\net7.0-windows\Theatre.Data.csproj.AssemblyReference.cache
+C:\Users\ISP\Documents\Демидов Денис ИСП33\Theatre\src\Theatra.Datas\obj\Debug\net7.0-windows\Theatre.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ISP\Documents\Демидов Денис ИСП33\Theatre\src\Theatra.Datas\obj\Debug\net7.0-windows\Theatre.Data.AssemblyInfoInputs.cache
+C:\Users\ISP\Documents\Демидов Денис ИСП33\Theatre\src\Theatra.Datas\obj\Debug\net7.0-windows\Theatre.Data.AssemblyInfo.cs
+C:\Users\ISP\Documents\Демидов Денис ИСП33\Theatre\src\Theatra.Datas\obj\Debug\net7.0-windows\Theatre.Data.csproj.CoreCompileInputs.cache
+C:\Users\ISP\Documents\Демидов Денис ИСП33\Theatre\src\Theatra.Datas\obj\Debug\net7.0-windows\Theatre.Data.csproj.CopyComplete
+C:\Users\ISP\Documents\Демидов Денис ИСП33\Theatre\src\Theatra.Datas\obj\Debug\net7.0-windows\Theatre.Data.dll
+C:\Users\ISP\Documents\Демидов Денис ИСП33\Theatre\src\Theatra.Datas\obj\Debug\net7.0-windows\refint\Theatre.Data.dll
+C:\Users\ISP\Documents\Демидов Денис ИСП33\Theatre\src\Theatra.Datas\obj\Debug\net7.0-windows\Theatre.Data.pdb
+C:\Users\ISP\Documents\Демидов Денис ИСП33\Theatre\src\Theatra.Datas\obj\Debug\net7.0-windows\ref\Theatre.Data.dll

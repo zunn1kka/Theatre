@@ -1,0 +1,197 @@
+﻿<Page x:Class="Theatre.Pages.MainPage"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+      xmlns:local="clr-namespace:Theatre.Pages.Converters"
+      mc:Ignorable="d" 
+      d:DesignHeight="450" d:DesignWidth="800"
+      Title="Спектакли">
+    <Page.Resources>
+        <local:TypeIdToVisibilityConverter x:Key="TypeIdToVisibilityConverter"/>
+    </Page.Resources>
+    <Grid Background="{StaticResource ColorBackground}">
+        <Grid.RowDefinitions>
+            <RowDefinition Height="Auto" />
+            <RowDefinition Height="*" />
+            <RowDefinition Height="Auto" />
+        </Grid.RowDefinitions>
+
+        <!-- Верхняя панель (App Bar) -->
+        <Border Grid.Row="0" Background="{StaticResource ColorPrimary}" Padding="10" CornerRadius="0,0,10,10">
+            <Grid>
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition Width="Auto" />
+                    <ColumnDefinition Width="*" />
+                    <ColumnDefinition Width="Auto" />
+                </Grid.ColumnDefinitions>
+
+                <!-- Логотип и название -->
+                <StackPanel Orientation="Horizontal" VerticalAlignment="Center">
+                    <Image Width="40" Height="40" VerticalAlignment="Center">
+                        <Image.Clip>
+                            <EllipseGeometry Center="20,20" RadiusX="20" RadiusY="20" />
+                        </Image.Clip>
+                    </Image>
+                    <TextBlock Text="TheatreWatch" Foreground="White" FontSize="22" 
+                               FontWeight="SemiBold" Margin="10,0,0,0"
+                               VerticalAlignment="Center" FontFamily="Segoe UI"/>
+                </StackPanel>
+                <StackPanel Grid.Column="1" Orientation="Horizontal" HorizontalAlignment="Right" Margin="10">
+                    <StackPanel Orientation="Horizontal" HorizontalAlignment="Center">
+                        <TextBlock Text="Баланс:" Foreground="White" Margin="0,0,5,0"/>
+                        <TextBlock Text="{Binding CurrentUser.Balance}" 
+                   Foreground="Gold" 
+                   FontWeight="Bold"
+                   ToolTip="Текущий баланс"/>
+                    </StackPanel>
+
+                    <Button Content="Пополнить" 
+            Command="{Binding AddFundsCommand}"
+            Margin="10,0,0,0"
+            Width="80"
+            Style="{StaticResource BaseButtonStyle}"/>
+
+                    <Button Content="Обновить" 
+            Command="{Binding RefreshBalanceCommand}"
+            Margin="5,0,0,0"
+            Width="80"
+            Style="{StaticResource BaseButtonStyle}"/>
+                </StackPanel>
+                
+                <!-- Кнопка профиля -->
+                <Button x:Name="ProfileButton" Style="{StaticResource TextButtonStyle}" 
+                        Click="ProfileButton_Click"  
+                        Grid.Column="2" VerticalAlignment="Center">
+                    <StackPanel Orientation="Horizontal">
+                        <Image Source="/Assets/userProfile.png" Width="18" Height="18" Margin="0,0,0,0"/>
+                        <TextBlock Text="Профиль" Foreground="White" VerticalAlignment="Center"
+                                   Style="{StaticResource CardSubtitleTextStyle}"/>
+                    </StackPanel>
+                </Button>
+            </Grid>
+        </Border>
+
+        <!-- Основной контент -->
+        <ScrollViewer Grid.Row="1" Padding="20" VerticalScrollBarVisibility="Auto">
+            <StackPanel>
+                <!-- Поиск -->
+                <TextBox x:Name="SearchTextBox" Style="{StaticResource BaseTextBoxStyle}" 
+                         TextChanged="SearchTextBox_TextChanged" 
+                         Margin="0,0,0,15"  FontSize="16">
+                    <TextBox.InputBindings>
+                        <KeyBinding Key="Enter" Command="{Binding SearchCommand}"/>
+                    </TextBox.InputBindings>
+                </TextBox>
+
+                <!-- Фильтрация и сортировка -->
+                <StackPanel Orientation="Horizontal" Margin="0,0,0,15">
+                    <ComboBox x:Name="FilterComboBox" FontSize="16"
+                              Width="220" Margin="0,0,15,0"
+                              SelectedIndex="0"
+                              SelectionChanged="FilterComboBox_SelectionChanged">
+                        <ComboBoxItem Content="Все"  />
+                        <ComboBoxItem Content="Комедия" />
+                        <ComboBoxItem Content="Драма" />
+                        <ComboBoxItem Content="Мюзикл" />
+                        <ComboBoxItem Content="Трагедия" />
+                        <ComboBoxItem Content="Фантастика" />
+                        <ComboBoxItem Content="Детектив" />
+                        <ComboBoxItem Content="Исторический" />
+                        <ComboBoxItem Content="Сказка" />
+                        <ComboBoxItem Content="Боевик" />
+                        <ComboBoxItem Content="Мелодрама" />
+                    </ComboBox>
+
+                    <ComboBox x:Name="SortComboBox" Height="30"
+                              Width="220" SelectedIndex="0"
+                              SelectionChanged="SortComboBox_SelectionChanged"
+                              FontSize="16">
+                        <ComboBoxItem Content="По названию (А-Я)" />
+                        <ComboBoxItem Content="По названию (Я-А)" />
+                        <ComboBoxItem Content="По дате премьеры" />
+                    </ComboBox>
+                </StackPanel>
+
+                <!-- Список спектаклей -->
+                <ItemsControl x:Name="ImagesListBox" ItemsSource="{Binding Spectacles}">
+                    <ItemsControl.ItemsPanel>
+                        <ItemsPanelTemplate>
+                            <WrapPanel Orientation="Horizontal" />
+                        </ItemsPanelTemplate>
+                    </ItemsControl.ItemsPanel>
+                    <ItemsControl.ItemTemplate>
+                        <DataTemplate>
+                            <Border Margin="31" Width="250" Background="White" CornerRadius="8" Padding="0" Effect="{StaticResource CardShadow}">
+                                <Grid>
+                                    <Grid.RowDefinitions>
+                                        <RowDefinition Height="Auto"/>
+                                        <RowDefinition Height="*"/>
+                                        <RowDefinition Height="Auto"/>
+                                    </Grid.RowDefinitions>
+
+                                    <!-- Основная карточка спектакля -->
+                                    <Button Grid.Row="0" Grid.RowSpan="2"
+                                            Style="{StaticResource ImageCardButton}" 
+                                            Click="OpenSpectaclePage_Click"
+                                            Margin="0,0,0,0">
+                                        <StackPanel>
+                                            <Border CornerRadius="8,8,0,0" Height="140" Background="{StaticResource ColorPrimaryLight}">
+                                                <Image Source="{Binding Image}" Stretch="UniformToFill" 
+                               VerticalAlignment="Center" HorizontalAlignment="Center"/>
+                                            </Border>
+                                            <StackPanel Margin="15" HorizontalAlignment="Center">
+                                                <TextBlock Text="{Binding Name}" Foreground="{StaticResource ColorAccent}" 
+                                   Style="{StaticResource CardTitleTextStyle}"/>
+                                                <TextBlock Text="{Binding GenreDisplay, Mode=OneWay, UpdateSourceTrigger=PropertyChanged}" 
+                                                           Style="{StaticResource CardSubtitleTextStyle}"/>
+                                            </StackPanel>
+                                        </StackPanel>
+                                    </Button>
+
+                                    <!-- Кнопки администратора -->
+                                    <StackPanel Grid.Row="2" Orientation="Horizontal" HorizontalAlignment="Center" 
+                                                Margin="0,5,0,10" Visibility="{Binding DataContext.CurrentUser.TypeId, 
+                        RelativeSource={RelativeSource AncestorType=Page}, 
+                        Converter={StaticResource TypeIdToVisibilityConverter},
+                        ConverterParameter=2}">
+                                        <Button Content="Редактировать" Margin="5,0" Padding="10,5"
+                                                Style="{StaticResource ModernButtonStyle}"
+                                                Click="EditSpectacleButton_Click"
+                                                x:Name="EditBtn"
+                                                CommandParameter="{Binding}"
+                                                Width="100"
+                                              />
+                                        <Button Content="Удалить" Margin="5,0" Padding="10,5"
+                                                Style="{StaticResource ModernButtonStyle}"
+                                                Click="DeleteSpectacleButton_Click"
+                                                x:Name="DeleteBtn"
+                                                CommandParameter="{Binding}"
+                                                Width="100"
+                                                />
+                                    </StackPanel>
+                                </Grid>
+                            </Border>
+                        </DataTemplate>
+                    </ItemsControl.ItemTemplate>
+                </ItemsControl>
+            </StackPanel>
+        </ScrollViewer>
+
+        <!-- Нижняя панель (FAB) -->
+        <Border Grid.Row="2" Background="{StaticResource ColorPrimaryLight}" Padding="20">
+            <Button Style="{StaticResource FloatingActionButton}"
+                    HorizontalAlignment="Right"
+                    Name="AddSpectacleButton"
+                    Click="AddSpectacleButton_Click"
+                    Visibility="{Binding CurrentUser.TypeId, 
+                                Converter={StaticResource TypeIdToVisibilityConverter},
+                                ConverterParameter=2}">
+                <StackPanel Orientation="Horizontal" Height="30" Width="90">
+                    <Image Source="/Assets/plus.png" Width="20" Height="20" Margin="5,0,5,0"/>
+                    <TextBlock Text="Добавить"  VerticalAlignment="Center" Foreground="White"/>
+                </StackPanel>
+            </Button>
+        </Border>
+    </Grid>
+</Page>

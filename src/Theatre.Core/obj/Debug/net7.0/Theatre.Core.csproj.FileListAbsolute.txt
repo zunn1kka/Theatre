@@ -1,0 +1,58 @@
+C:\Users\ISP\Documents\Демидов Денис ИСП33\Курсовой проект 3 курс\src\Theatre.Core\bin\Debug\net7.0\Theatre.Core.deps.json
+C:\Users\ISP\Documents\Демидов Денис ИСП33\Курсовой проект 3 курс\src\Theatre.Core\bin\Debug\net7.0\Theatre.Core.dll
+C:\Users\ISP\Documents\Демидов Денис ИСП33\Курсовой проект 3 курс\src\Theatre.Core\bin\Debug\net7.0\Theatre.Core.pdb
+C:\Users\ISP\Documents\Демидов Денис ИСП33\Курсовой проект 3 курс\src\Theatre.Core\obj\Debug\net7.0\Theatre.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ISP\Documents\Демидов Денис ИСП33\Курсовой проект 3 курс\src\Theatre.Core\obj\Debug\net7.0\Theatre.Core.AssemblyInfoInputs.cache
+C:\Users\ISP\Documents\Демидов Денис ИСП33\Курсовой проект 3 курс\src\Theatre.Core\obj\Debug\net7.0\Theatre.Core.AssemblyInfo.cs
+C:\Users\ISP\Documents\Демидов Денис ИСП33\Курсовой проект 3 курс\src\Theatre.Core\obj\Debug\net7.0\Theatre.Core.csproj.CoreCompileInputs.cache
+C:\Users\ISP\Documents\Демидов Денис ИСП33\Курсовой проект 3 курс\src\Theatre.Core\obj\Debug\net7.0\Theatre.Core.dll
+C:\Users\ISP\Documents\Демидов Денис ИСП33\Курсовой проект 3 курс\src\Theatre.Core\obj\Debug\net7.0\refint\Theatre.Core.dll
+C:\Users\ISP\Documents\Демидов Денис ИСП33\Курсовой проект 3 курс\src\Theatre.Core\obj\Debug\net7.0\Theatre.Core.pdb
+C:\Users\ISP\Documents\Демидов Денис ИСП33\Курсовой проект 3 курс\src\Theatre.Core\obj\Debug\net7.0\ref\Theatre.Core.dll
+C:\Users\ISP\Documents\Демидов Денис ИСП33\Курсовой проект 3 курс\Theatre\src\Theatre.Core\bin\Debug\net7.0\Theatre.Core.deps.json
+C:\Users\ISP\Documents\Демидов Денис ИСП33\Курсовой проект 3 курс\Theatre\src\Theatre.Core\bin\Debug\net7.0\Theatre.Core.dll
+C:\Users\ISP\Documents\Демидов Денис ИСП33\Курсовой проект 3 курс\Theatre\src\Theatre.Core\bin\Debug\net7.0\Theatre.Core.pdb
+C:\Users\ISP\Documents\Демидов Денис ИСП33\Курсовой проект 3 курс\Theatre\src\Theatre.Core\obj\Debug\net7.0\Theatre.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ISP\Documents\Демидов Денис ИСП33\Курсовой проект 3 курс\Theatre\src\Theatre.Core\obj\Debug\net7.0\Theatre.Core.AssemblyInfoInputs.cache
+C:\Users\ISP\Documents\Демидов Денис ИСП33\Курсовой проект 3 курс\Theatre\src\Theatre.Core\obj\Debug\net7.0\Theatre.Core.AssemblyInfo.cs
+C:\Users\ISP\Documents\Демидов Денис ИСП33\Курсовой проект 3 курс\Theatre\src\Theatre.Core\obj\Debug\net7.0\Theatre.Core.csproj.CoreCompileInputs.cache
+C:\Users\ISP\Documents\Демидов Денис ИСП33\Курсовой проект 3 курс\Theatre\src\Theatre.Core\obj\Debug\net7.0\Theatre.Core.dll
+C:\Users\ISP\Documents\Демидов Денис ИСП33\Курсовой проект 3 курс\Theatre\src\Theatre.Core\obj\Debug\net7.0\refint\Theatre.Core.dll
+C:\Users\ISP\Documents\Демидов Денис ИСП33\Курсовой проект 3 курс\Theatre\src\Theatre.Core\obj\Debug\net7.0\Theatre.Core.pdb
+C:\Users\ISP\Documents\Демидов Денис ИСП33\Курсовой проект 3 курс\Theatre\src\Theatre.Core\obj\Debug\net7.0\ref\Theatre.Core.dll
+D:\Новая папка\Theatre\src\Theatre.Core\bin\Debug\net7.0\Theatre.Core.deps.json
+D:\Новая папка\Theatre\src\Theatre.Core\bin\Debug\net7.0\Theatre.Core.dll
+D:\Новая папка\Theatre\src\Theatre.Core\bin\Debug\net7.0\Theatre.Core.pdb
+D:\Новая папка\Theatre\src\Theatre.Core\obj\Debug\net7.0\Theatre.Core.GeneratedMSBuildEditorConfig.editorconfig
+D:\Новая папка\Theatre\src\Theatre.Core\obj\Debug\net7.0\Theatre.Core.AssemblyInfoInputs.cache
+D:\Новая папка\Theatre\src\Theatre.Core\obj\Debug\net7.0\Theatre.Core.AssemblyInfo.cs
+D:\Новая папка\Theatre\src\Theatre.Core\obj\Debug\net7.0\Theatre.Core.csproj.CoreCompileInputs.cache
+D:\Новая папка\Theatre\src\Theatre.Core\obj\Debug\net7.0\Theatre.Core.dll
+D:\Новая папка\Theatre\src\Theatre.Core\obj\Debug\net7.0\refint\Theatre.Core.dll
+D:\Новая папка\Theatre\src\Theatre.Core\obj\Debug\net7.0\Theatre.Core.pdb
+D:\Новая папка\Theatre\src\Theatre.Core\obj\Debug\net7.0\ref\Theatre.Core.dll
+C:\Users\ISP\Documents\Демидов Денис ИСП33\Theatre\src\Theatre.Core\bin\Debug\net7.0\Theatre.Core.deps.json
+C:\Users\ISP\Documents\Демидов Денис ИСП33\Theatre\src\Theatre.Core\bin\Debug\net7.0\Theatre.Core.dll
+C:\Users\ISP\Documents\Демидов Денис ИСП33\Theatre\src\Theatre.Core\bin\Debug\net7.0\Theatre.Core.pdb
+C:\Users\ISP\Documents\Демидов Денис ИСП33\Theatre\src\Theatre.Core\obj\Debug\net7.0\Theatre.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ISP\Documents\Демидов Денис ИСП33\Theatre\src\Theatre.Core\obj\Debug\net7.0\Theatre.Core.AssemblyInfoInputs.cache
+C:\Users\ISP\Documents\Демидов Денис ИСП33\Theatre\src\Theatre.Core\obj\Debug\net7.0\Theatre.Core.AssemblyInfo.cs
+C:\Users\ISP\Documents\Демидов Денис ИСП33\Theatre\src\Theatre.Core\obj\Debug\net7.0\Theatre.Core.csproj.CoreCompileInputs.cache
+C:\Users\ISP\Documents\Демидов Денис ИСП33\Theatre\src\Theatre.Core\obj\Debug\net7.0\Theatre.Core.dll
+C:\Users\ISP\Documents\Демидов Денис ИСП33\Theatre\src\Theatre.Core\obj\Debug\net7.0\refint\Theatre.Core.dll
+C:\Users\ISP\Documents\Демидов Денис ИСП33\Theatre\src\Theatre.Core\obj\Debug\net7.0\Theatre.Core.pdb
+C:\Users\ISP\Documents\Демидов Денис ИСП33\Theatre\src\Theatre.Core\obj\Debug\net7.0\ref\Theatre.Core.dll
+C:\Users\Admin\Documents\Theatre\src\Theatre.Core\bin\Debug\net7.0\Theatre.Core.deps.json
+C:\Users\Admin\Documents\Theatre\src\Theatre.Core\bin\Debug\net7.0\Theatre.Core.dll
+C:\Users\Admin\Documents\Theatre\src\Theatre.Core\bin\Debug\net7.0\Theatre.Core.pdb
+C:\Users\Admin\Documents\Theatre\src\Theatre.Core\obj\Debug\net7.0\Theatre.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Documents\Theatre\src\Theatre.Core\obj\Debug\net7.0\Theatre.Core.AssemblyInfoInputs.cache
+C:\Users\Admin\Documents\Theatre\src\Theatre.Core\obj\Debug\net7.0\Theatre.Core.AssemblyInfo.cs
+C:\Users\Admin\Documents\Theatre\src\Theatre.Core\obj\Debug\net7.0\Theatre.Core.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Documents\Theatre\src\Theatre.Core\obj\Debug\net7.0\Theatre.Core.sourcelink.json
+C:\Users\Admin\Documents\Theatre\src\Theatre.Core\obj\Debug\net7.0\Theatre.Core.dll
+C:\Users\Admin\Documents\Theatre\src\Theatre.Core\obj\Debug\net7.0\refint\Theatre.Core.dll
+C:\Users\Admin\Documents\Theatre\src\Theatre.Core\obj\Debug\net7.0\Theatre.Core.pdb
+C:\Users\Admin\Documents\Theatre\src\Theatre.Core\obj\Debug\net7.0\ref\Theatre.Core.dll
+C:\Users\Admin\Documents\Theatre\src\Theatre.Core\obj\Debug\net7.0\Theatre.Core.csproj.AssemblyReference.cache
+C:\Users\ISP\Documents\Демидов Денис ИСП33\Theatre\src\Theatre.Core\obj\Debug\net7.0\Theatre.Core.csproj.AssemblyReference.cache
